@@ -1,7 +1,6 @@
 <template>
   <div>
     <Hello />
-    <AlbumNavigation />
   </div>
 </template>
 
