@@ -1,0 +1,1062 @@
+{
+    "items": [
+      {
+        "name": "Die neuen Fälle, Fall 1: Besuche eines Gehenkten",
+        "uri": "spotify:album:7bJzhpQkaKClIafD33OvhJ",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273dec3db945af3d11836299fd5",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02dec3db945af3d11836299fd5",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851dec3db945af3d11836299fd5",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/7bJzhpQkaKClIafD33OvhJ",
+        "case": 1
+      },
+      {
+        "name": "Die neuen Fälle, Fall 2: Die Gesellschaft des Schreckens",
+        "uri": "spotify:album:4VLfJiV6Ot3xnXlBTo5eid",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27339bcb8a610a0f3cf5ff2f724",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0239bcb8a610a0f3cf5ff2f724",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485139bcb8a610a0f3cf5ff2f724",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/4VLfJiV6Ot3xnXlBTo5eid",
+        "case": 2
+      },
+      {
+        "name": "Die neuen Fälle, Fall 3: Die betrogenen Titanic-Passagiere",
+        "uri": "spotify:album:7jC1pEFANpK8HB5uvjvfbD",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c2c81cb4f5a00aaf189c4890",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02c2c81cb4f5a00aaf189c4890",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851c2c81cb4f5a00aaf189c4890",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/7jC1pEFANpK8HB5uvjvfbD",
+        "case": 3
+      },
+      {
+        "name": "Die neuen Fälle, Fall 4: Die gelbe und die blaue Flamme",
+        "uri": "spotify:album:2mdL3eya0GQQ2CB3tSwys7",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273afb874e9d4240a10a73e4ce5",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02afb874e9d4240a10a73e4ce5",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851afb874e9d4240a10a73e4ce5",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/2mdL3eya0GQQ2CB3tSwys7",
+        "case": 4
+      },
+      {
+        "name": "Die neuen Fälle, Fall 5: Das steinerne Schiff",
+        "uri": "spotify:album:21jX9Xm4uf0HJIxOnQHkT0",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273940b26a8995e371c13eb0a73",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02940b26a8995e371c13eb0a73",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851940b26a8995e371c13eb0a73",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/21jX9Xm4uf0HJIxOnQHkT0",
+        "case": 5
+      },
+      {
+        "name": "Die neuen Fälle, Fall 6: Das Haus auf dem Hexenhügel",
+        "uri": "spotify:album:3RmoBnNfSssQ3eywavK041",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273aad032c61df16266c70e5ad8",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02aad032c61df16266c70e5ad8",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851aad032c61df16266c70e5ad8",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/3RmoBnNfSssQ3eywavK041",
+        "case": 6
+      },
+      {
+        "name": "Die neuen Fälle, Fall 7: Der eisige Tod",
+        "uri": "spotify:album:1ijy0C1P80ZbH9o3TJreaR",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273992a66e3130a373b1a5ae83c",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02992a66e3130a373b1a5ae83c",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851992a66e3130a373b1a5ae83c",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/1ijy0C1P80ZbH9o3TJreaR",
+        "case": 7
+      },
+      {
+        "name": "Die neuen Fälle, Fall 8: Der grüne Admiral",
+        "uri": "spotify:album:3qPcarnPOiBc17AhHGSFNj",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2737abf2676114ff4bd88a0b847",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e027abf2676114ff4bd88a0b847",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048517abf2676114ff4bd88a0b847",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/3qPcarnPOiBc17AhHGSFNj",
+        "case": 8
+      },
+      {
+        "name": "Die neuen Fälle, Fall 9: Holmes unter Verdacht",
+        "uri": "spotify:album:3Ej6ulRxwVkjOw1uMPXBqj",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2731e7d59f179c3a473fe517b01",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e021e7d59f179c3a473fe517b01",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048511e7d59f179c3a473fe517b01",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/3Ej6ulRxwVkjOw1uMPXBqj",
+        "case": 9
+      },
+      {
+        "name": "Die neuen Fälle, Fall 10: Der Biss des Zerberus",
+        "uri": "spotify:album:6sNinmeqnGOLSYSLjbfGdZ",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2730dfd8e74fcf0cb6a03783f48",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e020dfd8e74fcf0cb6a03783f48",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048510dfd8e74fcf0cb6a03783f48",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/6sNinmeqnGOLSYSLjbfGdZ",
+        "case": 10
+      },
+      {
+        "name": "Die neuen Fälle, Fall 11: Im kalten Nebel der Themse",
+        "uri": "spotify:album:6tYIpxqEnhRd3dY7rZZ6Nw",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b3e98b8e4c11a908e0eabc5a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b3e98b8e4c11a908e0eabc5a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b3e98b8e4c11a908e0eabc5a",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/6tYIpxqEnhRd3dY7rZZ6Nw",
+        "case": 11
+      },
+      {
+        "name": "Die neuen Fälle, Fall 12: Der verhängnisvolle Schlüssel",
+        "uri": "spotify:album:0ezAy0Yj610bYFJqbsqhh7",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273bbca9459dd3666f990156377",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02bbca9459dd3666f990156377",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851bbca9459dd3666f990156377",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/0ezAy0Yj610bYFJqbsqhh7",
+        "case": 12
+      },
+      {
+        "name": "Die neuen Fälle, Fall 13: Der geniale Magier",
+        "uri": "spotify:album:0q6sAoTr5jKKYWsK3tkySS",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273594a4454c8ed652ee070e772",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02594a4454c8ed652ee070e772",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851594a4454c8ed652ee070e772",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/0q6sAoTr5jKKYWsK3tkySS",
+        "case": 13
+      },
+      {
+        "name": "Die neuen Fälle, Fall 14: Der bibelfeste Mörder",
+        "uri": "spotify:album:3aTdv0N5O9pTt438U4e5AB",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c71e38ba48e8ece5ace65765",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02c71e38ba48e8ece5ace65765",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851c71e38ba48e8ece5ace65765",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/3aTdv0N5O9pTt438U4e5AB",
+        "case": 14
+      },
+      {
+        "name": "Die neuen Fälle, Fall 15: Das Geheimnis von Baskerville Hall",
+        "uri": "spotify:album:5Z3b9ZkCFetj5peWGOemAo",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273d5df93f4aeb72ce2bb101886",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02d5df93f4aeb72ce2bb101886",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851d5df93f4aeb72ce2bb101886",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/5Z3b9ZkCFetj5peWGOemAo",
+        "case": 15
+      },
+      {
+        "name": "Die neuen Fälle, Fall 16: Der leise Takt des Todes",
+        "uri": "spotify:album:35uzPHyxWKi7E4EgiY9kqm",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273d2c9d4b76102d8a2173e50f8",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02d2c9d4b76102d8a2173e50f8",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851d2c9d4b76102d8a2173e50f8",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/35uzPHyxWKi7E4EgiY9kqm",
+        "case": 16
+      },
+      {
+        "name": "Die neuen Fälle, Fall 17: Die drei Diven",
+        "uri": "spotify:album:5qcbohPOFUCR9ghn8VxAcm",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2738ad5015bda760bfb7139de8f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e028ad5015bda760bfb7139de8f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048518ad5015bda760bfb7139de8f",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/5qcbohPOFUCR9ghn8VxAcm",
+        "case": 17
+      },
+      {
+        "name": "Die neuen Fälle, Fall 18: Das Ratten-Problem",
+        "uri": "spotify:album:4kqoX7k71p0U710iSZOalc",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273574132d4fa184296ffdebcf0",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02574132d4fa184296ffdebcf0",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851574132d4fa184296ffdebcf0",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/4kqoX7k71p0U710iSZOalc",
+        "case": 18
+      },
+      {
+        "name": "Die neuen Fälle, Fall 19: Die Untoten von Tilbury",
+        "uri": "spotify:album:4teCWVkrCeAER8Wli0qHLE",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2732bf783d073d3dc7f507209a3",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e022bf783d073d3dc7f507209a3",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048512bf783d073d3dc7f507209a3",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/4teCWVkrCeAER8Wli0qHLE",
+        "case": 19
+      },
+      {
+        "name": "Die neuen Fälle, Fall 20: Die Spur ins Nichts",
+        "uri": "spotify:album:1E2nUf1rAfKOVDoKAC3w0g",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2730a5e87078f9c77096a29bf70",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e020a5e87078f9c77096a29bf70",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048510a5e87078f9c77096a29bf70",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/1E2nUf1rAfKOVDoKAC3w0g",
+        "case": 20
+      },
+      {
+        "name": "Die neuen Fälle, Fall 21: Der ehrlose Löwe",
+        "uri": "spotify:album:6k594sR4GCU0TOtyultjx3",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2731b48442e19fad6a5f52fde4c",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e021b48442e19fad6a5f52fde4c",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048511b48442e19fad6a5f52fde4c",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/6k594sR4GCU0TOtyultjx3",
+        "case": 21
+      },
+      {
+        "name": "Die neuen Fälle, Fall 22: Die schreiende Tänzerin",
+        "uri": "spotify:album:0gFGODYbwpcGkbuxedzftV",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2732aa74f4edf6858f891152071",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e022aa74f4edf6858f891152071",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048512aa74f4edf6858f891152071",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/0gFGODYbwpcGkbuxedzftV",
+        "case": 22
+      },
+      {
+        "name": "Die neuen Fälle, Fall 23: Die Prinzen im Tower",
+        "uri": "spotify:album:2ze2TG6Fuh45ExrQkFCqIt",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ed1d5f6f2b21213664b032a8",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ed1d5f6f2b21213664b032a8",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ed1d5f6f2b21213664b032a8",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/2ze2TG6Fuh45ExrQkFCqIt",
+        "case": 23
+      },
+      {
+        "name": "Die neuen Fälle, Fall 24: Das Monster von Soho",
+        "uri": "spotify:album:5hKFmoeYWBJpnHfMkXSust",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273be3d095e90d02f03174fea30",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02be3d095e90d02f03174fea30",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851be3d095e90d02f03174fea30",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/5hKFmoeYWBJpnHfMkXSust",
+        "case": 24
+      },
+      {
+        "name": "Die neuen Fälle, Fall 25: Die siebzehn Salutschüsse",
+        "uri": "spotify:album:2FzCCCLramWNqm1wsZ7gzb",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273c1ab333027c387377a68f546",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02c1ab333027c387377a68f546",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851c1ab333027c387377a68f546",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/2FzCCCLramWNqm1wsZ7gzb",
+        "case": 25
+      },
+      {
+        "name": "Die neuen Fälle, Fall 26: Der siebte Monat",
+        "uri": "spotify:album:18CGpcpVlFo3SNlBs9S2FC",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273842e29fd421103e0019bc323",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02842e29fd421103e0019bc323",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851842e29fd421103e0019bc323",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/18CGpcpVlFo3SNlBs9S2FC",
+        "case": 26
+      },
+      {
+        "name": "Die neuen Fälle, Fall 27: Ein ehrbares Haus",
+        "uri": "spotify:album:0HOw8HSkKRFxSLFru6Fg1i",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273ee1b51a4320029444119129e",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02ee1b51a4320029444119129e",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851ee1b51a4320029444119129e",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/0HOw8HSkKRFxSLFru6Fg1i",
+        "case": 27
+      },
+      {
+        "name": "Die neuen Fälle, Fall 28: Die Rache des Gerechten",
+        "uri": "spotify:album:0bYXKrbda9lonsyvPROKB6",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273b6b6e4b40e29bc053002e6b1",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02b6b6e4b40e29bc053002e6b1",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851b6b6e4b40e29bc053002e6b1",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/0bYXKrbda9lonsyvPROKB6",
+        "case": 28
+      },
+      {
+        "name": "Die neuen Fälle, Fall 29: Im Labyrinth des Wahnsinns",
+        "uri": "spotify:album:6hzSNbkpDzGDAy2UBJoOLj",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273d5ef4eb9613d047e8f3c1b93",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02d5ef4eb9613d047e8f3c1b93",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851d5ef4eb9613d047e8f3c1b93",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/6hzSNbkpDzGDAy2UBJoOLj",
+        "case": 29
+      },
+      {
+        "name": "Die neuen Fälle, Fall 30: Das Rätsel der Aurora",
+        "uri": "spotify:album:7fTbLVWI1N8ky97WButJHB",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e892cf0192d8eceb64738dde",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e892cf0192d8eceb64738dde",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e892cf0192d8eceb64738dde",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/7fTbLVWI1N8ky97WButJHB",
+        "case": 30
+      },
+      {
+        "name": "Die neuen Fälle, Fall 31: Die Todesfalle von Dornwood",
+        "uri": "spotify:album:7Ln2rb5Rgj61JHK0ekbReT",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273cefe30fd27a55511566173c8",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02cefe30fd27a55511566173c8",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851cefe30fd27a55511566173c8",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/7Ln2rb5Rgj61JHK0ekbReT",
+        "case": 31
+      },
+      {
+        "name": "Die neuen Fälle, Fall 32: Der Fall John Watson",
+        "uri": "spotify:album:22v65gjJsfK3o6TxbrjI26",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2731cd982851e9371df6b3987e0",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e021cd982851e9371df6b3987e0",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048511cd982851e9371df6b3987e0",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/22v65gjJsfK3o6TxbrjI26",
+        "case": 32
+      },
+      {
+        "name": "Die neuen Fälle, Fall 33: Die Wölfe von Whitechapel",
+        "uri": "spotify:album:0oOaPXNP5v0Bw5cZqPfTql",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2735f4538e4945228b2ae505d77",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e025f4538e4945228b2ae505d77",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048515f4538e4945228b2ae505d77",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/0oOaPXNP5v0Bw5cZqPfTql",
+        "case": 33
+      },
+      {
+        "name": "Die neuen Fälle, Fall 34: In den Klauen der Angst",
+        "uri": "spotify:album:515xp60xELK961kd5H0Rtz",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2735e73b6b1c1364bff73834ece",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e025e73b6b1c1364bff73834ece",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048515e73b6b1c1364bff73834ece",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/515xp60xELK961kd5H0Rtz",
+        "case": 34
+      },
+      {
+        "name": "Die neuen Fälle, Fall 35: Die letzte Symphonie",
+        "uri": "spotify:album:2kHyHyubBajODyxruE0mgl",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27313a51b1a825ff5feaa93b44c",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0213a51b1a825ff5feaa93b44c",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485113a51b1a825ff5feaa93b44c",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/2kHyHyubBajODyxruE0mgl",
+        "case": 35
+      },
+      {
+        "name": "Die neuen Fälle, Fall 36: Remis in zehn Zügen",
+        "uri": "spotify:album:00AP9ap1IFcsdBP7TtXhSd",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2738a70998965e8c57c5fcb3074",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e028a70998965e8c57c5fcb3074",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048518a70998965e8c57c5fcb3074",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/00AP9ap1IFcsdBP7TtXhSd",
+        "case": 36
+      },
+      {
+        "name": "Die neuen Fälle, Fall 37: Schatten der Vergangenheit",
+        "uri": "spotify:album:1UPGjoh4PoGEZzy5LobPuN",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27321e2b976efbf5c7f400acc90",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0221e2b976efbf5c7f400acc90",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485121e2b976efbf5c7f400acc90",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/1UPGjoh4PoGEZzy5LobPuN",
+        "case": 37
+      },
+      {
+        "name": "Die neuen Fälle, Fall 38: Die rote Spinne",
+        "uri": "spotify:album:4aju7PvHa5VNmGoxqvAMSW",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27390618e9f595585b8d5c7132f",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0290618e9f595585b8d5c7132f",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485190618e9f595585b8d5c7132f",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/4aju7PvHa5VNmGoxqvAMSW",
+        "case": 38
+      },
+      {
+        "name": "Die neuen Fälle, Fall 39: Der Tod des Henkers",
+        "uri": "spotify:album:4Aw1OS8EEtNV4zHFiHEtzP",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273f9775c376efa7734503db866",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02f9775c376efa7734503db866",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851f9775c376efa7734503db866",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/4Aw1OS8EEtNV4zHFiHEtzP",
+        "case": 39
+      },
+      {
+        "name": "Die neuen Fälle, Fall 40: Die Speise der Götter",
+        "uri": "spotify:album:2VQrZJooekY0qqvJr0VwIn",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273e388b86176592874e3543c2b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02e388b86176592874e3543c2b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851e388b86176592874e3543c2b",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/2VQrZJooekY0qqvJr0VwIn",
+        "case": 40
+      },
+      {
+        "name": "Die neuen Fälle, Fall 41: Die dunkle Seite der Seele",
+        "uri": "spotify:album:3H8IxdEdROLUpZXUcicAfW",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2732e2453329aba1bd35f89279e",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e022e2453329aba1bd35f89279e",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048512e2453329aba1bd35f89279e",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/3H8IxdEdROLUpZXUcicAfW",
+        "case": 41
+      },
+      {
+        "name": "Die neuen Fälle, Fall 42: Der Fluch der bösen Tat",
+        "uri": "spotify:album:4Tz8zOkRRDlYJ6m5MNMFNc",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2734b93149346f2c0aaf33afe99",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e024b93149346f2c0aaf33afe99",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048514b93149346f2c0aaf33afe99",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/4Tz8zOkRRDlYJ6m5MNMFNc",
+        "case": 42
+      },
+      {
+        "name": "Die neuen Fälle, Fall 43: Der Sturm des Unheils",
+        "uri": "spotify:album:1SDlPifDPxD4wGW4LZM5xV",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273155e755fb5912a98cdd0c299",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02155e755fb5912a98cdd0c299",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851155e755fb5912a98cdd0c299",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/1SDlPifDPxD4wGW4LZM5xV",
+        "case": 43
+      },
+      {
+        "name": "Die neuen Fälle, Fall 44: Die Glocken des Teufels",
+        "uri": "spotify:album:3TydRXTiRPpRZyJKddItke",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27341e6578ffffdbb355e07616d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0241e6578ffffdbb355e07616d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485141e6578ffffdbb355e07616d",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/3TydRXTiRPpRZyJKddItke",
+        "case": 44
+      },
+      {
+        "name": "Die neuen Fälle, Fall 45: Der sterbende Engel",
+        "uri": "spotify:album:1WVjf8BpAFgbEv2LOWZmxN",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273eaef0499bf09806cba7095df",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02eaef0499bf09806cba7095df",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851eaef0499bf09806cba7095df",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/1WVjf8BpAFgbEv2LOWZmxN",
+        "case": 45
+      },
+      {
+        "name": "Die neuen Fälle, Fall 46: Für Königreich und Vaterland",
+        "uri": "spotify:album:1IzT4ThAN35I8ygjDa3XeH",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273fc0b0306499147fe2fa7c008",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02fc0b0306499147fe2fa7c008",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851fc0b0306499147fe2fa7c008",
+            "width": 64
+          }
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/1IzT4ThAN35I8ygjDa3XeH",
+        "case": 46
+      }
+    ]
+  }
