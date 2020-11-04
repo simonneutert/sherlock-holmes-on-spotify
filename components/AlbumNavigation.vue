@@ -1,7 +1,7 @@
 <template>
   <div>
     <b-navbar toggleable="lg" type="dark">
-      <b-navbar-brand href="#">Sherlock on Spotify</b-navbar-brand>
+      <b-navbar-brand href="/">Sherlock on Spotify</b-navbar-brand>
 
       <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 

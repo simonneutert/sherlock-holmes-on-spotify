@@ -1,5 +1,6 @@
 <template>
   <b-container>
+    <ScrollToBottom />
     <b-row class="mt-4 pt-4 px-4">
       <ul class="list-unstyled">
         <Album

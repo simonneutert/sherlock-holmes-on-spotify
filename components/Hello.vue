@@ -1,5 +1,5 @@
 <template>
-  <b-container>
+  <b-container id="hello">
     <b-row class="mb-4">
       <h1 class="title">
         Sherlock Holmes auf <span class="spotify">Spotify</span> 🕵🏻‍♂️
@@ -13,6 +13,9 @@ export default {}
 </script>
 
 <style>
+#hello {
+  min-height: 100vh;
+}
 .spotify {
   color: white;
   padding: 0.5em;
