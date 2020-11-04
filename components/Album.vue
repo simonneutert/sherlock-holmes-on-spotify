@@ -4,8 +4,8 @@
       <b-img
         :src="album.images[1].url"
         width="64"
+        height="64"
         alt="album.name"
-        fluid
       ></b-img>
     </template>
     <h6 class="mt-0 mb-1">{{ album.name }}</h6>
