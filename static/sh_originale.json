@@ -1,1660 +1,1499 @@
 {
-    "items": [
-      {
-        "name": "Sherlock Holmes und der König von Böhmen - Die Originale: Die alten Fälle neu, Folge 1 (Ungekürzt)",
-        "uri": "spotify:album:76N3s4ENVwvF4w8JJckMst",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273f47e14b4ee1fd85f30602a8e",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02f47e14b4ee1fd85f30602a8e",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851f47e14b4ee1fd85f30602a8e",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/76N3s4ENVwvF4w8JJckMst",
-        "case": 1
-      },
-      {
-        "name": "Die Originale - Fall 1: Das Haus bei den Blutbuchen",
-        "uri": "spotify:album:2jJb23ouFtNweV5amSYVPB",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273f18a27ec470c109fb65c596f",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02f18a27ec470c109fb65c596f",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851f18a27ec470c109fb65c596f",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/2jJb23ouFtNweV5amSYVPB",
-        "case": 1
-      },
-      {
-        "name": "Sherlock Holmes und der Daumen des Ingenieurs - Die Originale: Die alten Fälle neu, Folge 2 (Ungekürzt)",
-        "uri": "spotify:album:2K6UpxvQ89UpO9gF5TrmOB",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2738f73473668334d2c06bdd2f3",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e028f73473668334d2c06bdd2f3",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048518f73473668334d2c06bdd2f3",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/2K6UpxvQ89UpO9gF5TrmOB",
-        "case": 2
-      },
-      {
-        "name": "Die Originale - Fall 2: Der blaue Karfunkel",
-        "uri": "spotify:album:3iTjRG24HCdZnU3DxtqAXb",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273ee9260f208b57b87c988f742",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02ee9260f208b57b87c988f742",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851ee9260f208b57b87c988f742",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/3iTjRG24HCdZnU3DxtqAXb",
-        "case": 2
-      },
-      {
-        "name": "Sherlock Holmes und die verlorene Saphirgans - Die Originale: Die alten Fälle neu, Folge 3 (Ungekürzt)",
-        "uri": "spotify:album:4K4QBIE6BdbgmyxviQlRbQ",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273d62b70e5e579c13c45bf568d",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02d62b70e5e579c13c45bf568d",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851d62b70e5e579c13c45bf568d",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/4K4QBIE6BdbgmyxviQlRbQ",
-        "case": 3
-      },
-      {
-        "name": "Die Originale - Fall 3: Das Musgrave-Ritual",
-        "uri": "spotify:album:6u0s8wiBX2mHWMhSKgbixq",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273d0c0dad32382b8c2d05c749d",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02d0c0dad32382b8c2d05c749d",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851d0c0dad32382b8c2d05c749d",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/6u0s8wiBX2mHWMhSKgbixq",
-        "case": 3
-      },
-      {
-        "name": "Sherlock Holmes und das zerbrochene Diadem - Die Originale: Die alten Fälle neu, Folge 4 (Ungekürzt)",
-        "uri": "spotify:album:05y1TchoDcIcIFgsg4N1Kp",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273f525e00dbd2a6257e4396006",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02f525e00dbd2a6257e4396006",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851f525e00dbd2a6257e4396006",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/05y1TchoDcIcIFgsg4N1Kp",
-        "case": 4
-      },
-      {
-        "name": "Die Originale - Fall 4: Die fünf Orangenkerne",
-        "uri": "spotify:album:60a0kVXuKOmKTVTvJLWR3n",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273ee61bb08c7e2d00cf54cc2ca",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02ee61bb08c7e2d00cf54cc2ca",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851ee61bb08c7e2d00cf54cc2ca",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/60a0kVXuKOmKTVTvJLWR3n",
-        "case": 4
-      },
-      {
-        "name": "Sherlock Holmes und die Botschaft der Orangenkerne - Die Originale: Die alten Fälle neu, Folge 5 (Ungekürzt)",
-        "uri": "spotify:album:1YtjC9CsMcfrk9E2yvkPqb",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273392895b150ebe145258592c0",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02392895b150ebe145258592c0",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851392895b150ebe145258592c0",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/1YtjC9CsMcfrk9E2yvkPqb",
-        "case": 5
-      },
-      {
-        "name": "Die Originale - Fall 5: Die sechs Napoleons",
-        "uri": "spotify:album:4GvufO7qKyaXZUoUv2Q6Eg",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2738d37be58623bbc7ada70bed2",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e028d37be58623bbc7ada70bed2",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048518d37be58623bbc7ada70bed2",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/4GvufO7qKyaXZUoUv2Q6Eg",
-        "case": 5
-      },
-      {
-        "name": "Sherlock Holmes und die verschwundene Braut - Die Originale: Die alten Fälle neu, Folge 6 (Ungekürzt)",
-        "uri": "spotify:album:4Mc9pGd9SifnYiLXP7q3A4",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2732fe599fbfae1b2ba8dd8402e",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e022fe599fbfae1b2ba8dd8402e",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048512fe599fbfae1b2ba8dd8402e",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/4Mc9pGd9SifnYiLXP7q3A4",
-        "case": 6
-      },
-      {
-        "name": "Die Originale - Fall 6: Das Tal der Furcht",
-        "uri": "spotify:album:6D0grQUHd86leQKkJ5fY3f",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27342b6d1eb66ae62c2c7ab8459",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0242b6d1eb66ae62c2c7ab8459",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485142b6d1eb66ae62c2c7ab8459",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/6D0grQUHd86leQKkJ5fY3f",
-        "case": 6
-      },
-      {
-        "name": "Sherlock Holmes und der Bund der Rothaarigen - Die Originale: Die alten Fälle neu, Folge 7 (Ungekürzt)",
-        "uri": "spotify:album:5RtvllhM7OWPqjjzWV2ZrI",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27398dc33fc701fb369bf86156c",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0298dc33fc701fb369bf86156c",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485198dc33fc701fb369bf86156c",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/5RtvllhM7OWPqjjzWV2ZrI",
-        "case": 7
-      },
-      {
-        "name": "Die Originale - Fall 7: Der Vampir von Sussex",
-        "uri": "spotify:album:3WQ3VbM0cW6n0cqPtFAeop",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273755ead28262a8bcc6024b176",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02755ead28262a8bcc6024b176",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851755ead28262a8bcc6024b176",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/3WQ3VbM0cW6n0cqPtFAeop",
-        "case": 7
-      },
-      {
-        "name": "Die Originale - Fall 8: Der Patient",
-        "uri": "spotify:album:1deV7rAVYgZ7B3Au2YpaTz",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27394002df4bbfc86cc540b7c63",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0294002df4bbfc86cc540b7c63",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485194002df4bbfc86cc540b7c63",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/1deV7rAVYgZ7B3Au2YpaTz",
-        "case": 8
-      },
-      {
-        "name": "Die Originale - Fall 9: Ein Skandal in Böhmen",
-        "uri": "spotify:album:0vZDYyZW8j76SL229IvABK",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2735ed96b5a0c8f26f73b851a17",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e025ed96b5a0c8f26f73b851a17",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048515ed96b5a0c8f26f73b851a17",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/0vZDYyZW8j76SL229IvABK",
-        "case": 9
-      },
-      {
-        "name": "Die Originale - Fall 10: Der Baumeister von Norwood",
-        "uri": "spotify:album:1nOOABK2f79XHCFyFLR5Vw",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273f4efaddbbc9f9324b0f78c6a",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02f4efaddbbc9f9324b0f78c6a",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851f4efaddbbc9f9324b0f78c6a",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/1nOOABK2f79XHCFyFLR5Vw",
-        "case": 10
-      },
-      {
-        "name": "Die Originale - Fall 11: Die drei Garridebs",
-        "uri": "spotify:album:7rqpLWEwvXCkq7BAII5olU",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2739febc364883c8c3000d7e6e6",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e029febc364883c8c3000d7e6e6",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048519febc364883c8c3000d7e6e6",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/7rqpLWEwvXCkq7BAII5olU",
-        "case": 11
-      },
-      {
-        "name": "Die Originale - Fall 12: Eine Studie in Scharlachrot",
-        "uri": "spotify:album:6Cc6Vl88L8MG795tFnMVV6",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273fd654145128e824cd705583c",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02fd654145128e824cd705583c",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851fd654145128e824cd705583c",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/6Cc6Vl88L8MG795tFnMVV6",
-        "case": 12
-      },
-      {
-        "name": "Die Originale - Fall 13: Der griechische Dolmetscher",
-        "uri": "spotify:album:5tj3ktyA5yB4r1237GIu3f",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273ffdc251c846d833fb6b1244f",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02ffdc251c846d833fb6b1244f",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851ffdc251c846d833fb6b1244f",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/5tj3ktyA5yB4r1237GIu3f",
-        "case": 13
-      },
-      {
-        "name": "Die Originale - Fall 14: Die tanzenden Männchen",
-        "uri": "spotify:album:6pIf8fFTAX5zoLONkdona8",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27375e69211c77025a6687b9c02",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0275e69211c77025a6687b9c02",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485175e69211c77025a6687b9c02",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/6pIf8fFTAX5zoLONkdona8",
-        "case": 14
-      },
-      {
-        "name": "Die Originale - Fall 15: Die Internatsschule",
-        "uri": "spotify:album:52on6eRfFuzBCHFGgwF3xC",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27312f7abdb2ef1fadb6c4e945c",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0212f7abdb2ef1fadb6c4e945c",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485112f7abdb2ef1fadb6c4e945c",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/52on6eRfFuzBCHFGgwF3xC",
-        "case": 15
-      },
-      {
-        "name": "Die Originale - Fall 16: Der zweite Fleck",
-        "uri": "spotify:album:6gyxzkakjUq62SBGPVtkgO",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273956ddac2d3a730cb2102436f",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02956ddac2d3a730cb2102436f",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851956ddac2d3a730cb2102436f",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/6gyxzkakjUq62SBGPVtkgO",
-        "case": 16
-      },
-      {
-        "name": "Die Originale - Fall 17: Silberpfeil",
-        "uri": "spotify:album:4mJCnGpg1FAVmYw6YUwt9n",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27368695019288a1760228f76f0",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0268695019288a1760228f76f0",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485168695019288a1760228f76f0",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/4mJCnGpg1FAVmYw6YUwt9n",
-        "case": 17
-      },
-      {
-        "name": "Die Originale - Fall 18: Der Hund der Baskervilles",
-        "uri": "spotify:album:3JUTahoJRkzdT1an3A93Ej",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27345a84b470b35eb0b0e86e50c",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0245a84b470b35eb0b0e86e50c",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485145a84b470b35eb0b0e86e50c",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/3JUTahoJRkzdT1an3A93Ej",
-        "case": 18
-      },
-      {
-        "name": "Die Originale - Fall 19: Der Angestellte des Börsenmaklers",
-        "uri": "spotify:album:0mjLUmIA8dazXCNtd846HM",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273621738fb05efc81ef40ba70e",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02621738fb05efc81ef40ba70e",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851621738fb05efc81ef40ba70e",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/0mjLUmIA8dazXCNtd846HM",
-        "case": 19
-      },
-      {
-        "name": "Die Originale - Fall 20: Der Landadel von Reigate",
-        "uri": "spotify:album:5O976QWUsoRW7yUi5E1FDn",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27322270f4d4358532d2dd096ee",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0222270f4d4358532d2dd096ee",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485122270f4d4358532d2dd096ee",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/5O976QWUsoRW7yUi5E1FDn",
-        "case": 20
-      },
-      {
-        "name": "Die Originale - Fall 21: Der Bucklige",
-        "uri": "spotify:album:67WtYt29IdKhVNmGbwHGCE",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273463de7cb194729ba0aa4175b",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02463de7cb194729ba0aa4175b",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851463de7cb194729ba0aa4175b",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/67WtYt29IdKhVNmGbwHGCE",
-        "case": 21
-      },
-      {
-        "name": "Die Originale - Fall 22: Das Geheimnis der \"Gloria Scott\"",
-        "uri": "spotify:album:0J3WQlN6mdDx4KIiamPdP0",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273051a9b4ae9bd94a62b32607d",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02051a9b4ae9bd94a62b32607d",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851051a9b4ae9bd94a62b32607d",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/0J3WQlN6mdDx4KIiamPdP0",
-        "case": 22
-      },
-      {
-        "name": "Die Originale - Fall 23: Der Flottenvertrag",
-        "uri": "spotify:album:55ntWZwm22kNn4kOlE1Nmh",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2730912bbe7ceb4dfd98a793211",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e020912bbe7ceb4dfd98a793211",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048510912bbe7ceb4dfd98a793211",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/55ntWZwm22kNn4kOlE1Nmh",
-        "case": 23
-      },
-      {
-        "name": "Die Originale - Fall 24: Im Zeichen der Vier",
-        "uri": "spotify:album:7gYUH2dcxHa4klsd0Hb6IV",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27350d0468099fdfe057c051f55",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0250d0468099fdfe057c051f55",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485150d0468099fdfe057c051f55",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/7gYUH2dcxHa4klsd0Hb6IV",
-        "case": 24
-      },
-      {
-        "name": "Die Originale - Fall 25: Das gelbe Gesicht",
-        "uri": "spotify:album:4NLoHOOS8l2ZvxjtN6A1Ei",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273dadf629105ff5dd4f875cb5f",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02dadf629105ff5dd4f875cb5f",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851dadf629105ff5dd4f875cb5f",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/4NLoHOOS8l2ZvxjtN6A1Ei",
-        "case": 25
-      },
-      {
-        "name": "Die Originale - Fall 26: Das Diadem",
-        "uri": "spotify:album:2Zc5CligGXAjuGPO1jXiAK",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27362d48167da6dfa38dc2f0084",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0262d48167da6dfa38dc2f0084",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485162d48167da6dfa38dc2f0084",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/2Zc5CligGXAjuGPO1jXiAK",
-        "case": 26
-      },
-      {
-        "name": "Die Originale - Fall 27: Der vermisste Rugbyspieler",
-        "uri": "spotify:album:05OqqelTonvQUqKLYXBgnk",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2733aca282b836a8a875671c795",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e023aca282b836a8a875671c795",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048513aca282b836a8a875671c795",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/05OqqelTonvQUqKLYXBgnk",
-        "case": 27
-      },
-      {
-        "name": "Die Originale - Fall 28: Der Mann mit der entstellten Lippe",
-        "uri": "spotify:album:5snQQxt4pCt6RvNvLr1N0s",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27310a634bda4304b78389aebae",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0210a634bda4304b78389aebae",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485110a634bda4304b78389aebae",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/5snQQxt4pCt6RvNvLr1N0s",
-        "case": 28
-      },
-      {
-        "name": "Die Originale - Fall 29: Die Liga der Rothaarigen",
-        "uri": "spotify:album:6FVY2htkwlMzP7uHamlUW9",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2733cbf4dd57c44357ca397405f",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e023cbf4dd57c44357ca397405f",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048513cbf4dd57c44357ca397405f",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/6FVY2htkwlMzP7uHamlUW9",
-        "case": 29
-      },
-      {
-        "name": "Die Originale - Fall 30: Eine Frage der Identität",
-        "uri": "spotify:album:0OvYc05E9kDdnxZPLpVtcb",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273b30ed75a05e2830e4cb4a0d8",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02b30ed75a05e2830e4cb4a0d8",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851b30ed75a05e2830e4cb4a0d8",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/0OvYc05E9kDdnxZPLpVtcb",
-        "case": 30
-      },
-      {
-        "name": "Die Originale - Fall 31: Die drei Giebel",
-        "uri": "spotify:album:0aXbVqT9UMmWf8tjLig5QE",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273a103bb8ef3009c1d5ce4aa85",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02a103bb8ef3009c1d5ce4aa85",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851a103bb8ef3009c1d5ce4aa85",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/0aXbVqT9UMmWf8tjLig5QE",
-        "case": 31
-      },
-      {
-        "name": "Die Originale - Fall 32: Der rote Kreis",
-        "uri": "spotify:album:7hDXXdzJNa0au8nD2VOtAv",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273d156fc1c30aa023ffd57e0ef",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02d156fc1c30aa023ffd57e0ef",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851d156fc1c30aa023ffd57e0ef",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/7hDXXdzJNa0au8nD2VOtAv",
-        "case": 32
-      },
-      {
-        "name": "Die Originale - Fall 33: Der schwarze Peter",
-        "uri": "spotify:album:1Yajh1Q2YI1qBUOIfeYFSr",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27391b18872ea3cedcb463a969c",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0291b18872ea3cedcb463a969c",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485191b18872ea3cedcb463a969c",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/1Yajh1Q2YI1qBUOIfeYFSr",
-        "case": 33
-      },
-      {
-        "name": "Die Originale - Fall 34: Charles Augustus Milverton",
-        "uri": "spotify:album:2Wu8AubSAr1ivmOLLW0ROL",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2734186bd698ec1e7ae39a88fbc",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e024186bd698ec1e7ae39a88fbc",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048514186bd698ec1e7ae39a88fbc",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/2Wu8AubSAr1ivmOLLW0ROL",
-        "case": 34
-      },
-      {
-        "name": "Die Originale - Fall 35: Die verschleierte Mieterin",
-        "uri": "spotify:album:2e9QTTPVcr9fxA6VYH5PYw",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273754ac7990b01a4532afc20ad",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02754ac7990b01a4532afc20ad",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851754ac7990b01a4532afc20ad",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/2e9QTTPVcr9fxA6VYH5PYw",
-        "case": 35
-      },
-      {
-        "name": "Die Originale - Fall 36: Der Teufelsfuß",
-        "uri": "spotify:album:0e2SZKMTlqpf280ShB5LJI",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273f10a7e4a7ed983e97d2c56cd",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02f10a7e4a7ed983e97d2c56cd",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851f10a7e4a7ed983e97d2c56cd",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/0e2SZKMTlqpf280ShB5LJI",
-        "case": 36
-      },
-      {
-        "name": "Die Originale - Fall 37: Die einsame Radfahrerin",
-        "uri": "spotify:album:6WawpbadNEO99FKJ6FKoum",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273006ceb4f409aab53d74e4a16",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02006ceb4f409aab53d74e4a16",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851006ceb4f409aab53d74e4a16",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/6WawpbadNEO99FKJ6FKoum",
-        "case": 37
-      },
-      {
-        "name": "Die Originale - Fall 38: Das gesprenkelte Band",
-        "uri": "spotify:album:20inr37VMMK6ZQVwQIbQlb",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2731a555fd1e30381f8e29e280b",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e021a555fd1e30381f8e29e280b",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048511a555fd1e30381f8e29e280b",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/20inr37VMMK6ZQVwQIbQlb",
-        "case": 38
-      },
-      {
-        "name": "Die Originale - Fall 39: Die Thor-Brücke",
-        "uri": "spotify:album:3a9Zmtt5UOkCsgxJ0NBIeh",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2735c730814b201a72748fd6389",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e025c730814b201a72748fd6389",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048515c730814b201a72748fd6389",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/3a9Zmtt5UOkCsgxJ0NBIeh",
-        "case": 39
-      },
-      {
-        "name": "Die Originale - Fall 40: Der goldene Kneifer",
-        "uri": "spotify:album:12jlq98wNB4BQanT7QSPaJ",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2733d3cc614cbe4f71caa6dd896",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e023d3cc614cbe4f71caa6dd896",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048513d3cc614cbe4f71caa6dd896",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/12jlq98wNB4BQanT7QSPaJ",
-        "case": 40
-      },
-      {
-        "name": "Die Originale - Fall 41: Abbey Grange",
-        "uri": "spotify:album:0JpIsIJd0TVOlXSSilYDnM",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2737408c4545673a061d9e85c9c",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e027408c4545673a061d9e85c9c",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048517408c4545673a061d9e85c9c",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/0JpIsIJd0TVOlXSSilYDnM",
-        "case": 41
-      },
-      {
-        "name": "Die Originale - Fall 42: Das Rätsel von Boscrome Valley",
-        "uri": "spotify:album:6Ity3pswbT26zTSflPdJEN",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2738252ad695edeb6335bad0a93",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e028252ad695edeb6335bad0a93",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048518252ad695edeb6335bad0a93",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/6Ity3pswbT26zTSflPdJEN",
-        "case": 42
-      },
-      {
-        "name": "Die Originale - Fall 43: Die Pappschachtel",
-        "uri": "spotify:album:5M9ichPAOE3EUEfqyzFrpE",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27397e10e3e17564942ddc8b625",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0297e10e3e17564942ddc8b625",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485197e10e3e17564942ddc8b625",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/5M9ichPAOE3EUEfqyzFrpE",
-        "case": 43
-      },
-      {
-        "name": "Die Originale - Fall 44: Die Bruce-Partington-Pläne",
-        "uri": "spotify:album:3Uj1YBGBWTNkK5NaOs77W8",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273c4da57bce427fa05092fcb0e",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02c4da57bce427fa05092fcb0e",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851c4da57bce427fa05092fcb0e",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/3Uj1YBGBWTNkK5NaOs77W8",
-        "case": 44
-      },
-      {
-        "name": "Die Originale - Fall 45: Das Verschwinden der Lady Carfax",
-        "uri": "spotify:album:4E4QEq9Dv3YbJqRvbaPVj0",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2733dd88cfedaebc83d377ae653",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e023dd88cfedaebc83d377ae653",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048513dd88cfedaebc83d377ae653",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/4E4QEq9Dv3YbJqRvbaPVj0",
-        "case": 45
-      },
-      {
-        "name": "Die Originale - Fall 46: Die Löwenmähne",
-        "uri": "spotify:album:5tJwUt6Lk26kZGVNI8B7Yh",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27356a3102139c219aedb173076",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0256a3102139c219aedb173076",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485156a3102139c219aedb173076",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/5tJwUt6Lk26kZGVNI8B7Yh",
-        "case": 46
-      },
-      {
-        "name": "Die Originale - Fall 47: Der Mazarin-Stein",
-        "uri": "spotify:album:6ykR8rVvhcTkbKwcFKcAyE",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273b764b2db438a3709e573eb82",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02b764b2db438a3709e573eb82",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851b764b2db438a3709e573eb82",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/6ykR8rVvhcTkbKwcFKcAyE",
-        "case": 47
-      },
-      {
-        "name": "Die Originale - Fall 48: Der illustre Klient",
-        "uri": "spotify:album:74S7I77O3hnfdClfYP4ZLw",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273673e7460ca3cfb08deefd24c",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02673e7460ca3cfb08deefd24c",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851673e7460ca3cfb08deefd24c",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/74S7I77O3hnfdClfYP4ZLw",
-        "case": 48
-      },
-      {
-        "name": "Die Originale - Fall 49: Der erbleichte Soldat",
-        "uri": "spotify:album:1bX1aEp3Ot6l2FdfdXrRC1",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27391f41f8b3fbacc8b1dca5eb5",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0291f41f8b3fbacc8b1dca5eb5",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485191f41f8b3fbacc8b1dca5eb5",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/1bX1aEp3Ot6l2FdfdXrRC1",
-        "case": 49
-      },
-      {
-        "name": "Die Originale - Fall 50: Shoscombe Old Place",
-        "uri": "spotify:album:1Jo7v9Ok1gJclXz63NkvXn",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273cd2c488b0d5ac8a8c5c24a42",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02cd2c488b0d5ac8a8c5c24a42",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851cd2c488b0d5ac8a8c5c24a42",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/1Jo7v9Ok1gJclXz63NkvXn",
-        "case": 50
-      },
-      {
-        "name": "Die Originale - Fall 51: Der Farbenhändler im Ruhestand",
-        "uri": "spotify:album:7MaMAk0Q1jl54tIr1wqHff",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273ef3458bd781076309148880d",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02ef3458bd781076309148880d",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851ef3458bd781076309148880d",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/7MaMAk0Q1jl54tIr1wqHff",
-        "case": 51
-      },
-      {
-        "name": "Die Originale - Fall 52: Wisteria Lodge",
-        "uri": "spotify:album:6QuBLfF9p16GU9pvRCSOFE",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273a8be9f41ef8fdbfc4ec09f53",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02a8be9f41ef8fdbfc4ec09f53",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851a8be9f41ef8fdbfc4ec09f53",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/6QuBLfF9p16GU9pvRCSOFE",
-        "case": 52
-      },
-      {
-        "name": "Die Originale - Fall 53: Der Detektiv auf dem Sterbebett",
-        "uri": "spotify:album:1m8PbhpOpQMTExXCoK5Jtn",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273f386985476ed0ab7e9f8612d",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02f386985476ed0ab7e9f8612d",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851f386985476ed0ab7e9f8612d",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/1m8PbhpOpQMTExXCoK5Jtn",
-        "case": 53
-      },
-      {
-        "name": "Die Originale - Fall 54: Die drei Studenten",
-        "uri": "spotify:album:3aYn2o2WrabAfQJ53dCkyx",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27393954c3ff7b9853544ebc421",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0293954c3ff7b9853544ebc421",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485193954c3ff7b9853544ebc421",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/3aYn2o2WrabAfQJ53dCkyx",
-        "case": 54
-      },
-      {
-        "name": "Die Originale - Fall 55: Der Mann mit dem geduckten Gang",
-        "uri": "spotify:album:53GC5MxGpPJPWZuD9MfijK",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2733f6c76d07eace305d306ff0a",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e023f6c76d07eace305d306ff0a",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048513f6c76d07eace305d306ff0a",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/53GC5MxGpPJPWZuD9MfijK",
-        "case": 55
-      },
-      {
-        "name": "Die Originale - Fall 56: Der Daumen des Ingenieurs",
-        "uri": "spotify:album:2l3Qe2bwspuDxY4o0nkS8m",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2733b06f1ae40af93877c492a89",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e023b06f1ae40af93877c492a89",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048513b06f1ae40af93877c492a89",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/2l3Qe2bwspuDxY4o0nkS8m",
-        "case": 56
-      },
-      {
-        "name": "Die Originale - Fall 57: Der adelige Junggeselle",
-        "uri": "spotify:album:10ulxzvkQ6L5toV80MFdiW",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273bac17efd2820c6b504f24e14",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02bac17efd2820c6b504f24e14",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851bac17efd2820c6b504f24e14",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/10ulxzvkQ6L5toV80MFdiW",
-        "case": 57
-      },
-      {
-        "name": "Die Originale - Fall 58: Das letzte Problem",
-        "uri": "spotify:album:6A4sS2TefLqerfqunIcH1X",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2730e38a69badb0a09272c8bf40",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e020e38a69badb0a09272c8bf40",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048510e38a69badb0a09272c8bf40",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/6A4sS2TefLqerfqunIcH1X",
-        "case": 58
-      },
-      {
-        "name": "Die Originale - Fall 59: Das leere Haus",
-        "uri": "spotify:album:5FrQoFitlR2MIfrYp5wb7V",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27397a9f7ff7ffc2588a19f1510",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0297a9f7ff7ffc2588a19f1510",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485197a9f7ff7ffc2588a19f1510",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/5FrQoFitlR2MIfrYp5wb7V",
-        "case": 59
-      },
-      {
-        "name": "Die Originale - Fall 60: Seine Abschiedsvorstellung",
-        "uri": "spotify:album:1x7POdvNNsVjDYK9T0zEes",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27347c952fe2938d3b4c4e0390e",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0247c952fe2938d3b4c4e0390e",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485147c952fe2938d3b4c4e0390e",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/1x7POdvNNsVjDYK9T0zEes",
-        "case": 60
-      },
-      {
-        "name": "Die Originale - Fall 61: Wie Watson den Trick lernte",
-        "uri": "spotify:album:1uvAw1quqcBRS7FNe5WT7J",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27359e399e5b533aa0ffc4ff28f",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0259e399e5b533aa0ffc4ff28f",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485159e399e5b533aa0ffc4ff28f",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/1uvAw1quqcBRS7FNe5WT7J",
-        "case": 61
-      },
-      {
-        "name": "Die Originale - Fall 62: Der verschwundene Sherlock Holmes",
-        "uri": "spotify:album:1gaV42GULt8oe9Vbk8r1al",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273d890f805e863a5969bea6b94",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02d890f805e863a5969bea6b94",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851d890f805e863a5969bea6b94",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/1gaV42GULt8oe9Vbk8r1al",
-        "case": 62
-      },
-      {
-        "name": "Die Originale - Fall 63: Die drei Mörder des Sir William",
-        "uri": "spotify:album:41mkHPVSNQo2EP53VaLq7g",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27346cb48d75fb16fcf66e38502",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0246cb48d75fb16fcf66e38502",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485146cb48d75fb16fcf66e38502",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/41mkHPVSNQo2EP53VaLq7g",
-        "case": 63
-      },
-      {
-        "name": "Die Originale - Fall 64: Nebel des Schreckens",
-        "uri": "spotify:album:3rMkFxSDxDN3wokrDtblOj",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273c0dad93460c790d1195c7c12",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02c0dad93460c790d1195c7c12",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851c0dad93460c790d1195c7c12",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/3rMkFxSDxDN3wokrDtblOj",
-        "case": 64
-      },
-      {
-        "name": "Die Originale - Fall 65: Als der Meister sich verlor",
-        "uri": "spotify:album:5pWwPS9NY7RyUaoAtBZdGp",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273f90c1e5f7b4dceba54b037cc",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02f90c1e5f7b4dceba54b037cc",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851f90c1e5f7b4dceba54b037cc",
-            "width": 64
-          }
-        ],
-        "spotifyUrl": "https://open.spotify.com/album/5pWwPS9NY7RyUaoAtBZdGp",
-        "case": 65
-      }
-    ]
-  }
+  "items": [
+    {
+      "name": "Die Originale - Fall 1: Das Haus bei den Blutbuchen",
+      "uri": "spotify:album:2jJb23ouFtNweV5amSYVPB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f18a27ec470c109fb65c596f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f18a27ec470c109fb65c596f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f18a27ec470c109fb65c596f",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/2jJb23ouFtNweV5amSYVPB",
+      "case": 1
+    },
+    {
+      "name": "Die Originale - Fall 2: Der blaue Karfunkel",
+      "uri": "spotify:album:3iTjRG24HCdZnU3DxtqAXb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ee9260f208b57b87c988f742",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ee9260f208b57b87c988f742",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ee9260f208b57b87c988f742",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/3iTjRG24HCdZnU3DxtqAXb",
+      "case": 2
+    },
+    {
+      "name": "Die Originale - Fall 3: Das Musgrave-Ritual",
+      "uri": "spotify:album:6u0s8wiBX2mHWMhSKgbixq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d0c0dad32382b8c2d05c749d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d0c0dad32382b8c2d05c749d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d0c0dad32382b8c2d05c749d",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/6u0s8wiBX2mHWMhSKgbixq",
+      "case": 3
+    },
+    {
+      "name": "Die Originale - Fall 4: Die fünf Orangenkerne",
+      "uri": "spotify:album:60a0kVXuKOmKTVTvJLWR3n",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ee61bb08c7e2d00cf54cc2ca",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ee61bb08c7e2d00cf54cc2ca",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ee61bb08c7e2d00cf54cc2ca",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/60a0kVXuKOmKTVTvJLWR3n",
+      "case": 4
+    },
+    {
+      "name": "Die Originale - Fall 5: Die sechs Napoleons",
+      "uri": "spotify:album:4GvufO7qKyaXZUoUv2Q6Eg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738d37be58623bbc7ada70bed2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028d37be58623bbc7ada70bed2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518d37be58623bbc7ada70bed2",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/4GvufO7qKyaXZUoUv2Q6Eg",
+      "case": 5
+    },
+    {
+      "name": "Die Originale - Fall 6: Das Tal der Furcht",
+      "uri": "spotify:album:6D0grQUHd86leQKkJ5fY3f",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27342b6d1eb66ae62c2c7ab8459",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0242b6d1eb66ae62c2c7ab8459",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485142b6d1eb66ae62c2c7ab8459",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/6D0grQUHd86leQKkJ5fY3f",
+      "case": 6
+    },
+    {
+      "name": "Die Originale - Fall 7: Der Vampir von Sussex",
+      "uri": "spotify:album:3WQ3VbM0cW6n0cqPtFAeop",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273755ead28262a8bcc6024b176",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02755ead28262a8bcc6024b176",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851755ead28262a8bcc6024b176",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/3WQ3VbM0cW6n0cqPtFAeop",
+      "case": 7
+    },
+    {
+      "name": "Die Originale - Fall 8: Der Patient",
+      "uri": "spotify:album:1deV7rAVYgZ7B3Au2YpaTz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27394002df4bbfc86cc540b7c63",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0294002df4bbfc86cc540b7c63",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485194002df4bbfc86cc540b7c63",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/1deV7rAVYgZ7B3Au2YpaTz",
+      "case": 8
+    },
+    {
+      "name": "Die Originale - Fall 9: Ein Skandal in Böhmen",
+      "uri": "spotify:album:0vZDYyZW8j76SL229IvABK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735ed96b5a0c8f26f73b851a17",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025ed96b5a0c8f26f73b851a17",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515ed96b5a0c8f26f73b851a17",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/0vZDYyZW8j76SL229IvABK",
+      "case": 9
+    },
+    {
+      "name": "Die Originale - Fall 10: Der Baumeister von Norwood",
+      "uri": "spotify:album:1nOOABK2f79XHCFyFLR5Vw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f4efaddbbc9f9324b0f78c6a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f4efaddbbc9f9324b0f78c6a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f4efaddbbc9f9324b0f78c6a",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/1nOOABK2f79XHCFyFLR5Vw",
+      "case": 10
+    },
+    {
+      "name": "Die Originale - Fall 11: Die drei Garridebs",
+      "uri": "spotify:album:7rqpLWEwvXCkq7BAII5olU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2739febc364883c8c3000d7e6e6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e029febc364883c8c3000d7e6e6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048519febc364883c8c3000d7e6e6",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/7rqpLWEwvXCkq7BAII5olU",
+      "case": 11
+    },
+    {
+      "name": "Die Originale - Fall 12: Eine Studie in Scharlachrot",
+      "uri": "spotify:album:6Cc6Vl88L8MG795tFnMVV6",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273fd654145128e824cd705583c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02fd654145128e824cd705583c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851fd654145128e824cd705583c",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/6Cc6Vl88L8MG795tFnMVV6",
+      "case": 12
+    },
+    {
+      "name": "Die Originale - Fall 13: Der griechische Dolmetscher",
+      "uri": "spotify:album:5tj3ktyA5yB4r1237GIu3f",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ffdc251c846d833fb6b1244f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ffdc251c846d833fb6b1244f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ffdc251c846d833fb6b1244f",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/5tj3ktyA5yB4r1237GIu3f",
+      "case": 13
+    },
+    {
+      "name": "Die Originale - Fall 14: Die tanzenden Männchen",
+      "uri": "spotify:album:6pIf8fFTAX5zoLONkdona8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27375e69211c77025a6687b9c02",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0275e69211c77025a6687b9c02",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485175e69211c77025a6687b9c02",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/6pIf8fFTAX5zoLONkdona8",
+      "case": 14
+    },
+    {
+      "name": "Die Originale - Fall 15: Die Internatsschule",
+      "uri": "spotify:album:52on6eRfFuzBCHFGgwF3xC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27312f7abdb2ef1fadb6c4e945c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0212f7abdb2ef1fadb6c4e945c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485112f7abdb2ef1fadb6c4e945c",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/52on6eRfFuzBCHFGgwF3xC",
+      "case": 15
+    },
+    {
+      "name": "Die Originale - Fall 16: Der zweite Fleck",
+      "uri": "spotify:album:6gyxzkakjUq62SBGPVtkgO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273956ddac2d3a730cb2102436f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02956ddac2d3a730cb2102436f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851956ddac2d3a730cb2102436f",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/6gyxzkakjUq62SBGPVtkgO",
+      "case": 16
+    },
+    {
+      "name": "Die Originale - Fall 17: Silberpfeil",
+      "uri": "spotify:album:4mJCnGpg1FAVmYw6YUwt9n",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27368695019288a1760228f76f0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0268695019288a1760228f76f0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485168695019288a1760228f76f0",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/4mJCnGpg1FAVmYw6YUwt9n",
+      "case": 17
+    },
+    {
+      "name": "Die Originale - Fall 18: Der Hund der Baskervilles",
+      "uri": "spotify:album:3JUTahoJRkzdT1an3A93Ej",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27345a84b470b35eb0b0e86e50c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0245a84b470b35eb0b0e86e50c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485145a84b470b35eb0b0e86e50c",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/3JUTahoJRkzdT1an3A93Ej",
+      "case": 18
+    },
+    {
+      "name": "Die Originale - Fall 19: Der Angestellte des Börsenmaklers",
+      "uri": "spotify:album:0mjLUmIA8dazXCNtd846HM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273621738fb05efc81ef40ba70e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02621738fb05efc81ef40ba70e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851621738fb05efc81ef40ba70e",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/0mjLUmIA8dazXCNtd846HM",
+      "case": 19
+    },
+    {
+      "name": "Die Originale - Fall 20: Der Landadel von Reigate",
+      "uri": "spotify:album:5O976QWUsoRW7yUi5E1FDn",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27322270f4d4358532d2dd096ee",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0222270f4d4358532d2dd096ee",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485122270f4d4358532d2dd096ee",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/5O976QWUsoRW7yUi5E1FDn",
+      "case": 20
+    },
+    {
+      "name": "Die Originale - Fall 21: Der Bucklige",
+      "uri": "spotify:album:67WtYt29IdKhVNmGbwHGCE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273463de7cb194729ba0aa4175b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02463de7cb194729ba0aa4175b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851463de7cb194729ba0aa4175b",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/67WtYt29IdKhVNmGbwHGCE",
+      "case": 21
+    },
+    {
+      "name": "Die Originale - Fall 22: Das Geheimnis der \"Gloria Scott\"",
+      "uri": "spotify:album:0J3WQlN6mdDx4KIiamPdP0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273051a9b4ae9bd94a62b32607d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02051a9b4ae9bd94a62b32607d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851051a9b4ae9bd94a62b32607d",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/0J3WQlN6mdDx4KIiamPdP0",
+      "case": 22
+    },
+    {
+      "name": "Die Originale - Fall 23: Der Flottenvertrag",
+      "uri": "spotify:album:55ntWZwm22kNn4kOlE1Nmh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730912bbe7ceb4dfd98a793211",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020912bbe7ceb4dfd98a793211",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510912bbe7ceb4dfd98a793211",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/55ntWZwm22kNn4kOlE1Nmh",
+      "case": 23
+    },
+    {
+      "name": "Die Originale - Fall 24: Im Zeichen der Vier",
+      "uri": "spotify:album:7gYUH2dcxHa4klsd0Hb6IV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27350d0468099fdfe057c051f55",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0250d0468099fdfe057c051f55",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485150d0468099fdfe057c051f55",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/7gYUH2dcxHa4klsd0Hb6IV",
+      "case": 24
+    },
+    {
+      "name": "Die Originale - Fall 25: Das gelbe Gesicht",
+      "uri": "spotify:album:4NLoHOOS8l2ZvxjtN6A1Ei",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273dadf629105ff5dd4f875cb5f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02dadf629105ff5dd4f875cb5f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851dadf629105ff5dd4f875cb5f",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/4NLoHOOS8l2ZvxjtN6A1Ei",
+      "case": 25
+    },
+    {
+      "name": "Die Originale - Fall 26: Das Diadem",
+      "uri": "spotify:album:2Zc5CligGXAjuGPO1jXiAK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27362d48167da6dfa38dc2f0084",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0262d48167da6dfa38dc2f0084",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485162d48167da6dfa38dc2f0084",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/2Zc5CligGXAjuGPO1jXiAK",
+      "case": 26
+    },
+    {
+      "name": "Die Originale - Fall 27: Der vermisste Rugbyspieler",
+      "uri": "spotify:album:05OqqelTonvQUqKLYXBgnk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733aca282b836a8a875671c795",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023aca282b836a8a875671c795",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513aca282b836a8a875671c795",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/05OqqelTonvQUqKLYXBgnk",
+      "case": 27
+    },
+    {
+      "name": "Die Originale - Fall 28: Der Mann mit der entstellten Lippe",
+      "uri": "spotify:album:5snQQxt4pCt6RvNvLr1N0s",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27310a634bda4304b78389aebae",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0210a634bda4304b78389aebae",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485110a634bda4304b78389aebae",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/5snQQxt4pCt6RvNvLr1N0s",
+      "case": 28
+    },
+    {
+      "name": "Die Originale - Fall 29: Die Liga der Rothaarigen",
+      "uri": "spotify:album:6FVY2htkwlMzP7uHamlUW9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733cbf4dd57c44357ca397405f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023cbf4dd57c44357ca397405f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513cbf4dd57c44357ca397405f",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/6FVY2htkwlMzP7uHamlUW9",
+      "case": 29
+    },
+    {
+      "name": "Die Originale - Fall 30: Eine Frage der Identität",
+      "uri": "spotify:album:0OvYc05E9kDdnxZPLpVtcb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b30ed75a05e2830e4cb4a0d8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b30ed75a05e2830e4cb4a0d8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b30ed75a05e2830e4cb4a0d8",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/0OvYc05E9kDdnxZPLpVtcb",
+      "case": 30
+    },
+    {
+      "name": "Die Originale - Fall 31: Die drei Giebel",
+      "uri": "spotify:album:0aXbVqT9UMmWf8tjLig5QE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a103bb8ef3009c1d5ce4aa85",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a103bb8ef3009c1d5ce4aa85",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a103bb8ef3009c1d5ce4aa85",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/0aXbVqT9UMmWf8tjLig5QE",
+      "case": 31
+    },
+    {
+      "name": "Die Originale - Fall 32: Der rote Kreis",
+      "uri": "spotify:album:7hDXXdzJNa0au8nD2VOtAv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d156fc1c30aa023ffd57e0ef",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d156fc1c30aa023ffd57e0ef",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d156fc1c30aa023ffd57e0ef",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/7hDXXdzJNa0au8nD2VOtAv",
+      "case": 32
+    },
+    {
+      "name": "Die Originale - Fall 33: Der schwarze Peter",
+      "uri": "spotify:album:1Yajh1Q2YI1qBUOIfeYFSr",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27391b18872ea3cedcb463a969c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0291b18872ea3cedcb463a969c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485191b18872ea3cedcb463a969c",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/1Yajh1Q2YI1qBUOIfeYFSr",
+      "case": 33
+    },
+    {
+      "name": "Die Originale - Fall 34: Charles Augustus Milverton",
+      "uri": "spotify:album:2Wu8AubSAr1ivmOLLW0ROL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734186bd698ec1e7ae39a88fbc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024186bd698ec1e7ae39a88fbc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514186bd698ec1e7ae39a88fbc",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/2Wu8AubSAr1ivmOLLW0ROL",
+      "case": 34
+    },
+    {
+      "name": "Die Originale - Fall 35: Die verschleierte Mieterin",
+      "uri": "spotify:album:2e9QTTPVcr9fxA6VYH5PYw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273754ac7990b01a4532afc20ad",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02754ac7990b01a4532afc20ad",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851754ac7990b01a4532afc20ad",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/2e9QTTPVcr9fxA6VYH5PYw",
+      "case": 35
+    },
+    {
+      "name": "Die Originale - Fall 36: Der Teufelsfuß",
+      "uri": "spotify:album:0e2SZKMTlqpf280ShB5LJI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f10a7e4a7ed983e97d2c56cd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f10a7e4a7ed983e97d2c56cd",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f10a7e4a7ed983e97d2c56cd",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/0e2SZKMTlqpf280ShB5LJI",
+      "case": 36
+    },
+    {
+      "name": "Die Originale - Fall 37: Die einsame Radfahrerin",
+      "uri": "spotify:album:6WawpbadNEO99FKJ6FKoum",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273006ceb4f409aab53d74e4a16",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02006ceb4f409aab53d74e4a16",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851006ceb4f409aab53d74e4a16",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/6WawpbadNEO99FKJ6FKoum",
+      "case": 37
+    },
+    {
+      "name": "Die Originale - Fall 38: Das gesprenkelte Band",
+      "uri": "spotify:album:20inr37VMMK6ZQVwQIbQlb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731a555fd1e30381f8e29e280b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021a555fd1e30381f8e29e280b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511a555fd1e30381f8e29e280b",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/20inr37VMMK6ZQVwQIbQlb",
+      "case": 38
+    },
+    {
+      "name": "Die Originale - Fall 39: Die Thor-Brücke",
+      "uri": "spotify:album:3a9Zmtt5UOkCsgxJ0NBIeh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735c730814b201a72748fd6389",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e025c730814b201a72748fd6389",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048515c730814b201a72748fd6389",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/3a9Zmtt5UOkCsgxJ0NBIeh",
+      "case": 39
+    },
+    {
+      "name": "Die Originale - Fall 40: Der goldene Kneifer",
+      "uri": "spotify:album:12jlq98wNB4BQanT7QSPaJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733d3cc614cbe4f71caa6dd896",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023d3cc614cbe4f71caa6dd896",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513d3cc614cbe4f71caa6dd896",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/12jlq98wNB4BQanT7QSPaJ",
+      "case": 40
+    },
+    {
+      "name": "Die Originale - Fall 41: Abbey Grange",
+      "uri": "spotify:album:0JpIsIJd0TVOlXSSilYDnM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737408c4545673a061d9e85c9c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027408c4545673a061d9e85c9c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517408c4545673a061d9e85c9c",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/0JpIsIJd0TVOlXSSilYDnM",
+      "case": 41
+    },
+    {
+      "name": "Die Originale - Fall 42: Das Rätsel von Boscrome Valley",
+      "uri": "spotify:album:6Ity3pswbT26zTSflPdJEN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738252ad695edeb6335bad0a93",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028252ad695edeb6335bad0a93",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518252ad695edeb6335bad0a93",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/6Ity3pswbT26zTSflPdJEN",
+      "case": 42
+    },
+    {
+      "name": "Die Originale - Fall 43: Die Pappschachtel",
+      "uri": "spotify:album:5M9ichPAOE3EUEfqyzFrpE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27397e10e3e17564942ddc8b625",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0297e10e3e17564942ddc8b625",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485197e10e3e17564942ddc8b625",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/5M9ichPAOE3EUEfqyzFrpE",
+      "case": 43
+    },
+    {
+      "name": "Die Originale - Fall 44: Die Bruce-Partington-Pläne",
+      "uri": "spotify:album:3Uj1YBGBWTNkK5NaOs77W8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c4da57bce427fa05092fcb0e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c4da57bce427fa05092fcb0e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c4da57bce427fa05092fcb0e",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/3Uj1YBGBWTNkK5NaOs77W8",
+      "case": 44
+    },
+    {
+      "name": "Die Originale - Fall 45: Das Verschwinden der Lady Carfax",
+      "uri": "spotify:album:4E4QEq9Dv3YbJqRvbaPVj0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733dd88cfedaebc83d377ae653",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023dd88cfedaebc83d377ae653",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513dd88cfedaebc83d377ae653",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/4E4QEq9Dv3YbJqRvbaPVj0",
+      "case": 45
+    },
+    {
+      "name": "Die Originale - Fall 46: Die Löwenmähne",
+      "uri": "spotify:album:5tJwUt6Lk26kZGVNI8B7Yh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27356a3102139c219aedb173076",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0256a3102139c219aedb173076",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485156a3102139c219aedb173076",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/5tJwUt6Lk26kZGVNI8B7Yh",
+      "case": 46
+    },
+    {
+      "name": "Die Originale - Fall 47: Der Mazarin-Stein",
+      "uri": "spotify:album:6ykR8rVvhcTkbKwcFKcAyE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b764b2db438a3709e573eb82",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b764b2db438a3709e573eb82",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b764b2db438a3709e573eb82",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/6ykR8rVvhcTkbKwcFKcAyE",
+      "case": 47
+    },
+    {
+      "name": "Die Originale - Fall 48: Der illustre Klient",
+      "uri": "spotify:album:74S7I77O3hnfdClfYP4ZLw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273673e7460ca3cfb08deefd24c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02673e7460ca3cfb08deefd24c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851673e7460ca3cfb08deefd24c",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/74S7I77O3hnfdClfYP4ZLw",
+      "case": 48
+    },
+    {
+      "name": "Die Originale - Fall 49: Der erbleichte Soldat",
+      "uri": "spotify:album:1bX1aEp3Ot6l2FdfdXrRC1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27391f41f8b3fbacc8b1dca5eb5",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0291f41f8b3fbacc8b1dca5eb5",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485191f41f8b3fbacc8b1dca5eb5",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/1bX1aEp3Ot6l2FdfdXrRC1",
+      "case": 49
+    },
+    {
+      "name": "Die Originale - Fall 50: Shoscombe Old Place",
+      "uri": "spotify:album:1Jo7v9Ok1gJclXz63NkvXn",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273cd2c488b0d5ac8a8c5c24a42",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02cd2c488b0d5ac8a8c5c24a42",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851cd2c488b0d5ac8a8c5c24a42",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/1Jo7v9Ok1gJclXz63NkvXn",
+      "case": 50
+    },
+    {
+      "name": "Die Originale - Fall 51: Der Farbenhändler im Ruhestand",
+      "uri": "spotify:album:7MaMAk0Q1jl54tIr1wqHff",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ef3458bd781076309148880d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ef3458bd781076309148880d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ef3458bd781076309148880d",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/7MaMAk0Q1jl54tIr1wqHff",
+      "case": 51
+    },
+    {
+      "name": "Die Originale - Fall 52: Wisteria Lodge",
+      "uri": "spotify:album:6QuBLfF9p16GU9pvRCSOFE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a8be9f41ef8fdbfc4ec09f53",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a8be9f41ef8fdbfc4ec09f53",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a8be9f41ef8fdbfc4ec09f53",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/6QuBLfF9p16GU9pvRCSOFE",
+      "case": 52
+    },
+    {
+      "name": "Die Originale - Fall 53: Der Detektiv auf dem Sterbebett",
+      "uri": "spotify:album:1m8PbhpOpQMTExXCoK5Jtn",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f386985476ed0ab7e9f8612d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f386985476ed0ab7e9f8612d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f386985476ed0ab7e9f8612d",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/1m8PbhpOpQMTExXCoK5Jtn",
+      "case": 53
+    },
+    {
+      "name": "Die Originale - Fall 54: Die drei Studenten",
+      "uri": "spotify:album:3aYn2o2WrabAfQJ53dCkyx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27393954c3ff7b9853544ebc421",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0293954c3ff7b9853544ebc421",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485193954c3ff7b9853544ebc421",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/3aYn2o2WrabAfQJ53dCkyx",
+      "case": 54
+    },
+    {
+      "name": "Die Originale - Fall 55: Der Mann mit dem geduckten Gang",
+      "uri": "spotify:album:53GC5MxGpPJPWZuD9MfijK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733f6c76d07eace305d306ff0a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023f6c76d07eace305d306ff0a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513f6c76d07eace305d306ff0a",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/53GC5MxGpPJPWZuD9MfijK",
+      "case": 55
+    },
+    {
+      "name": "Die Originale - Fall 56: Der Daumen des Ingenieurs",
+      "uri": "spotify:album:2l3Qe2bwspuDxY4o0nkS8m",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2733b06f1ae40af93877c492a89",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e023b06f1ae40af93877c492a89",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048513b06f1ae40af93877c492a89",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/2l3Qe2bwspuDxY4o0nkS8m",
+      "case": 56
+    },
+    {
+      "name": "Die Originale - Fall 57: Der adelige Junggeselle",
+      "uri": "spotify:album:10ulxzvkQ6L5toV80MFdiW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bac17efd2820c6b504f24e14",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bac17efd2820c6b504f24e14",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bac17efd2820c6b504f24e14",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/10ulxzvkQ6L5toV80MFdiW",
+      "case": 57
+    },
+    {
+      "name": "Die Originale - Fall 58: Das letzte Problem",
+      "uri": "spotify:album:6A4sS2TefLqerfqunIcH1X",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730e38a69badb0a09272c8bf40",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020e38a69badb0a09272c8bf40",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510e38a69badb0a09272c8bf40",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/6A4sS2TefLqerfqunIcH1X",
+      "case": 58
+    },
+    {
+      "name": "Die Originale - Fall 59: Das leere Haus",
+      "uri": "spotify:album:5FrQoFitlR2MIfrYp5wb7V",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27397a9f7ff7ffc2588a19f1510",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0297a9f7ff7ffc2588a19f1510",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485197a9f7ff7ffc2588a19f1510",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/5FrQoFitlR2MIfrYp5wb7V",
+      "case": 59
+    },
+    {
+      "name": "Die Originale - Fall 60: Seine Abschiedsvorstellung",
+      "uri": "spotify:album:1x7POdvNNsVjDYK9T0zEes",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27347c952fe2938d3b4c4e0390e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0247c952fe2938d3b4c4e0390e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485147c952fe2938d3b4c4e0390e",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/1x7POdvNNsVjDYK9T0zEes",
+      "case": 60
+    },
+    {
+      "name": "Die Originale - Fall 61: Wie Watson den Trick lernte",
+      "uri": "spotify:album:1uvAw1quqcBRS7FNe5WT7J",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27359e399e5b533aa0ffc4ff28f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0259e399e5b533aa0ffc4ff28f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485159e399e5b533aa0ffc4ff28f",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/1uvAw1quqcBRS7FNe5WT7J",
+      "case": 61
+    },
+    {
+      "name": "Die Originale - Fall 62: Der verschwundene Sherlock Holmes",
+      "uri": "spotify:album:1gaV42GULt8oe9Vbk8r1al",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d890f805e863a5969bea6b94",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d890f805e863a5969bea6b94",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d890f805e863a5969bea6b94",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/1gaV42GULt8oe9Vbk8r1al",
+      "case": 62
+    },
+    {
+      "name": "Die Originale - Fall 63: Die drei Mörder des Sir William",
+      "uri": "spotify:album:41mkHPVSNQo2EP53VaLq7g",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27346cb48d75fb16fcf66e38502",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0246cb48d75fb16fcf66e38502",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485146cb48d75fb16fcf66e38502",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/41mkHPVSNQo2EP53VaLq7g",
+      "case": 63
+    },
+    {
+      "name": "Die Originale - Fall 64: Nebel des Schreckens",
+      "uri": "spotify:album:3rMkFxSDxDN3wokrDtblOj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c0dad93460c790d1195c7c12",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c0dad93460c790d1195c7c12",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c0dad93460c790d1195c7c12",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/3rMkFxSDxDN3wokrDtblOj",
+      "case": 64
+    },
+    {
+      "name": "Die Originale - Fall 65: Als der Meister sich verlor",
+      "uri": "spotify:album:5pWwPS9NY7RyUaoAtBZdGp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f90c1e5f7b4dceba54b037cc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f90c1e5f7b4dceba54b037cc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f90c1e5f7b4dceba54b037cc",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/5pWwPS9NY7RyUaoAtBZdGp",
+      "case": 65
+    }
+  ]
+}
