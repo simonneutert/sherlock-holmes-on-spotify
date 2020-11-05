@@ -9,6 +9,11 @@
         Die Daten stammen von der Spotify API und sollen Fans der Reihe helfen
         leichter eine Folge finden zu können.
       </div>
+      <p>
+        <a href="https://github.com/simonneutert/sherlock-holmes-on-spotify"
+          >Code auf Github!</a
+        >
+      </p>
     </b-container>
   </footer>
 </template>
