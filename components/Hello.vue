@@ -2,7 +2,8 @@
   <b-container id="hello">
     <b-row class="mb-4">
       <h1 class="title">
-        Sherlock Holmes auf <span class="spotify">Spotify</span> 🕵🏻‍♂️
+        <span class="detective">Sherlock Holmes auf </span
+        ><span class="spotify">Spotify</span> 🕵🏻‍♂️
       </h1>
     </b-row>
   </b-container>
@@ -16,6 +17,17 @@ export default {}
 #hello {
   min-height: 100vh;
 }
+
+.detective {
+  color: white;
+  opacity: 0.2;
+  transition: 0.3s;
+}
+
+.detective:hover {
+  opacity: 1;
+}
+
 .spotify {
   color: white;
   padding: 0.5em;
