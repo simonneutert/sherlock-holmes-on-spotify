@@ -1,5 +1,5 @@
 <template>
-  <b-container>
+  <b-container v-show="album">
     <div v-if="album">
       <Album :album="album" />
     </div>

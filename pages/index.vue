@@ -14,7 +14,10 @@ import { Hello } from '@@/components/Hello'
 import { TheShuffle } from '@@/components/TheShuffle'
 
 export default {
-  components: [Hello, TheShuffle],
+  components: {
+    Hello,
+    TheShuffle,
+  },
   data() {
     return {
       playlistOriginale,
@@ -23,7 +26,7 @@ export default {
       albums: [],
     }
   },
-  mounted() {
+  created() {
     this.albums = this.playlistOriginale.items
       .concat(this.playlistNeue.items)
       .concat(this.playlistReloaded.items)
