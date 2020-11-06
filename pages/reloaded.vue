@@ -1,26 +1,19 @@
 <template>
-  <b-container>
+  <b-container id="episodes">
     <ScrollToBottom />
-    <b-row class="mt-4 pt-4 px-4">
-      <ul class="list-unstyled">
-        <Album
-          :album="album"
-          v-for="album in playlist.items"
-          :key="album.uri"
-        />
-      </ul>
-    </b-row>
+    <TheSearchForm :searchableItems="playlist.items" />
   </b-container>
 </template>
 
 <script>
 import playlist from '@@/static/sh_reloaded.json'
-
-import { Album } from '@@/components/Album'
+import { ScrollToBottom } from '@@/components/ScrollToBottom'
+import { TheSearchForm } from '@@/components/TheSearchForm'
 
 export default {
   components: {
-    Album,
+    ScrollToBottom,
+    TheSearchForm,
   },
   data() {
     return {
@@ -30,4 +23,8 @@ export default {
 }
 </script>
 
-<style></style>
+<style>
+#episodes {
+  min-height: 70vh;
+}
+</style>

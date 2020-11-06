@@ -1,7 +1,9 @@
 <template>
   <div>
-    <AlbumNavigation />
-    <Nuxt />
+    <div id="main-layout">
+      <AlbumNavigation />
+      <Nuxt />
+    </div>
     <Footer />
   </div>
 </template>
@@ -57,5 +59,8 @@ html {
 
 .list-unstyled {
   width: 100%;
+}
+#main-layout {
+  min-height: 100vh;
 }
 </style>

@@ -1,14 +1,34 @@
 <template>
   <div>
     <Hello />
+    <TheShuffle :items="albums" />
   </div>
 </template>
 
 <script>
+import playlistOriginale from '@@/static/sh_originale.json'
+import playlistNeue from '@@/static/sh_neue.json'
+import playlistReloaded from '@@/static/sh_reloaded.json'
+
 import { Hello } from '@@/components/Hello'
-import AlbumNavigation from '~/components/AlbumNavigation.vue'
+import { TheShuffle } from '@@/components/TheShuffle'
+
 export default {
-  components: [Hello, AlbumNavigation],
+  components: [Hello, TheShuffle],
+  data() {
+    return {
+      playlistOriginale,
+      playlistNeue,
+      playlistReloaded,
+      albums: [],
+    }
+  },
+  mounted() {
+    this.albums = this.playlistOriginale.items
+      .concat(this.playlistNeue.items)
+      .concat(this.playlistReloaded.items)
+      .flat()
+  },
 }
 </script>
 
