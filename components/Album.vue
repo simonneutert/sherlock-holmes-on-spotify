@@ -28,5 +28,6 @@ export default {
 .album {
   border: 1px solid green;
   padding: 1em;
+  min-height: 68px;
 }
 </style>
