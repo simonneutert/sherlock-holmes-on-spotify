@@ -15,7 +15,7 @@ export default {}
 
 <style>
 #hello {
-  min-height: 100vh;
+  min-height: 30vh;
 }
 
 .detective {
