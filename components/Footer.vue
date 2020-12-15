@@ -6,8 +6,8 @@
         <p>Simon Neutert<br />Südring 311<br />55128 Mainz</p>
       </div>
       <div>
-        Die Daten stammen von der Spotify API und sollen Fans der Reihe helfen
-        leichter eine Folge finden zu können.
+        Die Daten stammen von der Spotify API und sollen Fans der Reihe helfen,
+        leichter eine bestimmte Folge finden zu können.
       </div>
       <p>
         <a href="https://github.com/simonneutert/sherlock-holmes-on-spotify"
