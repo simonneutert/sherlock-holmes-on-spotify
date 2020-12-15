@@ -1057,6 +1057,29 @@
         ],
         "spotifyUrl": "https://open.spotify.com/album/1IzT4ThAN35I8ygjDa3XeH",
         "case": 46
+      },
+      {
+        "name": "Die neuen Fälle, Fall 47: Das Ritual im Moor",
+        "uri": "spotify:album:3Kjk3J8bdJFsfhNjyS2YeW",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273409b2a50558ef1c1ba64a7b6",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02409b2a50558ef1c1ba64a7b6",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851409b2a50558ef1c1ba64a7b6",
+            "width": 64
+          },
+        ],
+        "spotifyUrl": "https://open.spotify.com/album/3Kjk3J8bdJFsfhNjyS2YeW?si=UMHeZKm1QripN9ZpKOPYGQ",
+        "case": 47
       }
     ]
   }
