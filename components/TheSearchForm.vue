@@ -40,14 +40,14 @@
 
 <script>
 export default {
+  props: {
+    searchableItems: { type: Array, required: true },
+  },
   data() {
     return {
       searchInput: '',
       searchableItemsCopy: [],
     }
-  },
-  props: {
-    searchableItems: { type: Array, required: true },
   },
   mounted() {
     this.searchableItemsCopy = this.searchableItems

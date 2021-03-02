@@ -1,5 +1,5 @@
 <template>
-  <b-button @click="scrollToBottom" class="float-right my-4"
+  <b-button class="float-right my-4" @click="scrollToBottom"
     >Zur letzten Folge</b-button
   >
 </template>

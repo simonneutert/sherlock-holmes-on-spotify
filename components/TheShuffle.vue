@@ -8,7 +8,7 @@
 </template>
 
 <script>
-import { Album } from '@@/components/Album'
+import Album from '@@/components/Album'
 
 export default {
   components: {
@@ -22,13 +22,13 @@ export default {
       album: undefined,
     }
   },
+  mounted() {
+    this.shuffle()
+  },
   methods: {
     shuffle() {
       this.album = this.items[Math.floor(Math.random() * this.items.length)]
     },
-  },
-  mounted() {
-    this.shuffle()
   },
 }
 </script>

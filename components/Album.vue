@@ -20,7 +20,10 @@
 
 <script>
 export default {
-  props: ['album'],
+  name: 'Album',
+  props: {
+    album: { type: Object, required: true },
+  },
 }
 </script>
 
