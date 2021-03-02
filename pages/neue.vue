@@ -1,14 +1,14 @@
 <template>
   <b-container id="episodes">
     <ScrollToBottom />
-    <TheSearchForm :searchableItems="playlist.items" />
+    <TheSearchForm :searchable-items="playlist.items" />
   </b-container>
 </template>
 
 <script>
 import playlist from '@@/static/sh_neue.json'
-import { ScrollToBottom } from '@@/components/ScrollToBottom'
-import { TheSearchForm } from '@@/components/TheSearchForm'
+import ScrollToBottom from '@@/components/ScrollToBottom'
+import TheSearchForm from '@@/components/TheSearchForm'
 
 export default {
   components: {

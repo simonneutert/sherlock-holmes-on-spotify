@@ -10,8 +10,8 @@ import playlistOriginale from '@@/static/sh_originale.json'
 import playlistNeue from '@@/static/sh_neue.json'
 import playlistReloaded from '@@/static/sh_reloaded.json'
 
-import { Hello } from '@@/components/Hello'
-import { TheShuffle } from '@@/components/TheShuffle'
+import Hello from '@@/components/Hello'
+import TheShuffle from '@@/components/TheShuffle'
 
 export default {
   components: {
