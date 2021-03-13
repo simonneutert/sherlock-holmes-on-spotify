@@ -1,5 +1,9 @@
 {
-    "eslint.format.enable": true,
-    "editor.formatOnSave": true,
-    "eslint.run": "onSave"
+  "eslint.format.enable": true,
+  "editor.formatOnSave": true,
+  "eslint.run": "onSave",
+  "launch": {
+    "configurations": [],
+    "compounds": []
+  }
 }
