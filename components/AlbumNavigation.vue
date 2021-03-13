@@ -10,11 +10,11 @@
           <b-nav-item to="/originale" exact-active-class="active"
             >Die Originale</b-nav-item
           >
-          <b-nav-item to="/neue" exact-active-class="active"
-            >Die neuen Fälle</b-nav-item
-          >
           <b-nav-item to="/reloaded" exact-active-class="active"
             >Die alten Fälle (Reloaded)</b-nav-item
+          >
+          <b-nav-item to="/neue" exact-active-class="active"
+            >Die neuen Fälle</b-nav-item
           >
         </b-navbar-nav>
 
