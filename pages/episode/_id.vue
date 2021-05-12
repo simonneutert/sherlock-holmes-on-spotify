@@ -42,7 +42,7 @@ export default {
       album: playlistOriginale.items[1],
     }
   },
-  created() {
+  mounted() {
     const spotifyUri = this.$route.params.id
     const originale = this.findByUri(playlistOriginale, spotifyUri)
     const reloaded = this.findByUri(playlistReloaded, spotifyUri)
