@@ -1,24 +1,8 @@
 <template>
   <div>
     <Hello />
-    <div class="container">
-      <div class="row py-4">
-        <div class="col-sm-2">
-          <b-img-lazy :src="album.images[1].url" :alt="album.name" fluid />
-        </div>
-        <div class="col-sm-10">
-          <h4>{{ album.name }}</h4>
-          <p>
-            Episode {{ album.case }}
-            <a :href="album.spotifyUrl">(auf Spotify Website)</a>
-          </p>
-          <div class="play">
-            <p>
-              <a :href="album.uri">Jetzt auf Spotify abspielen</a>
-            </p>
-          </div>
-        </div>
-      </div>
+    <div v-if="album" class="container">
+      <Album :album="album" />
     </div>
   </div>
 </template>
@@ -39,7 +23,7 @@ export default {
       playlistOriginale,
       playlistNeue,
       playlistReloaded,
-      album: playlistOriginale.items[1],
+      album: undefined,
     }
   },
   mounted() {
