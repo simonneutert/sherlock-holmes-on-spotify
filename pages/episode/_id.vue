@@ -2,7 +2,7 @@
   <div>
     <Hello />
     <div class="container">
-      <div class="row py-4">
+      <div v-if="album" class="row py-4">
         <div class="col-sm-2">
           <b-img-lazy :src="album.images[1].url" :alt="album.name" fluid />
         </div>
@@ -39,7 +39,7 @@ export default {
       playlistOriginale,
       playlistNeue,
       playlistReloaded,
-      album: playlistOriginale.items[1],
+      album: undefined,
     }
   },
   mounted() {
