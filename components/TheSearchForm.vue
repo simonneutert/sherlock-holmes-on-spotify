@@ -27,6 +27,13 @@
                   <a :href="album.uri">Jetzt auf Spotify abspielen</a>
                 </p>
               </div>
+              <div class="share">
+                <nuxt-link
+                  :to="{ name: 'episode-id', params: { id: album.uri } }"
+                >
+                  Share via deep link
+                </nuxt-link>
+              </div>
             </div>
           </div>
         </div>
