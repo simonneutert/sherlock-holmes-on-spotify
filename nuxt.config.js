@@ -1,6 +1,6 @@
-import playlistOriginale from '@@/static/sh_originale.json'
-import playlistNeue from '@@/static/sh_neue.json'
-import playlistReloaded from '@@/static/sh_reloaded.json'
+import playlistOriginale from './static/sh_originale.json'
+import playlistNeue from './static/sh_neue.json'
+import playlistReloaded from './static/sh_reloaded.json'
 
 export default {
   // Target (https://go.nuxtjs.dev/config-target)
