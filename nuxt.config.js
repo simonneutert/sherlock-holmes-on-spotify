@@ -10,17 +10,9 @@ export default {
     routes() {
       const allUris = []
 
-      playlistOriginale.items.forEach((playlist) => {
-        playlist.forEach((album) => allUris.push(album.uri))
-      })
-
-      playlistNeue.items.forEach((playlist) => {
-        playlist.forEach((album) => allUris.push(album.uri))
-      })
-
-      playlistReloaded.items.forEach((playlist) => {
-        playlist.forEach((album) => allUris.push(album.uri))
-      })
+      playlistOriginale.items.forEach((album) => allUris.push(album.uri))
+      playlistNeue.items.forEach((album) => allUris.push(album.uri))
+      playlistReloaded.items.forEach((album) => allUris.push(album.uri))
 
       return allUris.map((uid) => {
         return '/episode/' + uid
