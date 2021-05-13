@@ -18,25 +18,27 @@ export default {
   components: {
     Hello,
   },
+  asyncData(context) {
+    const spotifyUri = context.$route.params.id
+    const originale = context.findByUri(playlistOriginale, spotifyUri)
+    const reloaded = context.findByUri(playlistReloaded, spotifyUri)
+    const neue = context.findByUri(playlistNeue, spotifyUri)
+    let album
+    if (originale) {
+      album = originale
+    } else if (reloaded) {
+      album = reloaded
+    } else {
+      album = neue
+    }
+    return { album }
+  },
   data() {
     return {
       playlistOriginale,
       playlistNeue,
       playlistReloaded,
       album: undefined,
-    }
-  },
-  mounted() {
-    const spotifyUri = this.$route.params.id
-    const originale = this.findByUri(playlistOriginale, spotifyUri)
-    const reloaded = this.findByUri(playlistReloaded, spotifyUri)
-    const neue = this.findByUri(playlistNeue, spotifyUri)
-    if (originale) {
-      this.album = originale
-    } else if (reloaded) {
-      this.album = reloaded
-    } else {
-      this.album = neue
     }
   },
   methods: {
