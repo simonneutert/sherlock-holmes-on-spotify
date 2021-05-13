@@ -8,21 +8,21 @@ export default {
 
   generate: {
     routes() {
-      const allUids = []
+      const allUris = []
 
       playlistOriginale.items.forEach((playlist) => {
-        playlist.forEach((album) => allUids.push(album.uid))
+        playlist.forEach((album) => allUris.push(album.uri))
       })
 
       playlistNeue.items.forEach((playlist) => {
-        playlist.forEach((album) => allUids.push(album.uid))
+        playlist.forEach((album) => allUris.push(album.uri))
       })
 
       playlistReloaded.items.forEach((playlist) => {
-        playlist.forEach((album) => allUids.push(album.uid))
+        playlist.forEach((album) => allUris.push(album.uri))
       })
 
-      return allUids.map((uid) => {
+      return allUris.map((uid) => {
         return '/episode/' + uid
       })
     },
