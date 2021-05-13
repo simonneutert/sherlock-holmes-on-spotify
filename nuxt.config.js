@@ -10,16 +10,16 @@ export default {
     routes() {
       const allUids = []
 
-      playlistOriginale.forEach((playlist) => {
-        playlist.items.forEach((album) => allUids.push(album.uid))
+      playlistOriginale.items.forEach((playlist) => {
+        playlist.forEach((album) => allUids.push(album.uid))
       })
 
-      playlistNeue.forEach((playlist) => {
-        playlist.items.forEach((album) => allUids.push(album.uid))
+      playlistNeue.items.forEach((playlist) => {
+        playlist.forEach((album) => allUids.push(album.uid))
       })
 
-      playlistReloaded.forEach((playlist) => {
-        playlist.items.forEach((album) => allUids.push(album.uid))
+      playlistReloaded.items.forEach((playlist) => {
+        playlist.forEach((album) => allUids.push(album.uid))
       })
 
       return allUids.map((uid) => {
