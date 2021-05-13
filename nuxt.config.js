@@ -1,6 +1,24 @@
+import playlistOriginale from '@@/static/sh_originale.json'
+import playlistNeue from '@@/static/sh_neue.json'
+import playlistReloaded from '@@/static/sh_reloaded.json'
+
 export default {
   // Target (https://go.nuxtjs.dev/config-target)
   target: 'static',
+
+  generate: {
+    routes() {
+      const allUids = [][
+        (playlistOriginale.items, playlistNeue.items, playlistReloaded.items)
+      ].forEach((playlist) => {
+        playlist.forEach((album) => allUids.push(album.uid))
+      })
+
+      return allUids.map((uid) => {
+        return '/episode/' + uid
+      })
+    },
+  },
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
@@ -11,16 +29,15 @@ export default {
       {
         hid: 'description',
         name: 'description',
-        content: 'Alle Alben der Hörspiele von Sherlock Holmes auf Spotify, sortiert und leicht zu durchstöbern.'
+        content:
+          'Alle Alben der Hörspiele von Sherlock Holmes auf Spotify, sortiert und leicht zu durchstöbern.',
       },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   },
 
   // Global CSS (https://go.nuxtjs.dev/config-css)
-  css: [
-    '@@/assets/css/bootstrap.min.css'
-  ],
+  css: ['@@/assets/css/bootstrap.min.css'],
 
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
   plugins: [],
