@@ -1,8 +1,15 @@
 <template>
-  <b-container v-show="album">
-    <div v-if="album">
-      <Album :album="album" />
+  <b-container v-if="album">
+    <div>
+      <Album :album="album">
+        <div class="share">
+          <nuxt-link :to="{ name: 'episode-id', params: { id: album.uri } }">
+            Share via deep link
+          </nuxt-link>
+        </div>
+      </Album>
     </div>
+
     <b-button block @click="shuffle()">Shuffle</b-button>
   </b-container>
 </template>
@@ -33,4 +40,8 @@ export default {
 }
 </script>
 
-<style></style>
+<style>
+.share {
+  text-align: center;
+}
+</style>

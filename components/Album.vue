@@ -15,6 +15,9 @@
     <p class="play text-center">
       <a :href="album.uri">Jetzt auf Spotify abspielen</a>
     </p>
+    <div>
+      <slot></slot>
+    </div>
   </b-media>
 </template>
 

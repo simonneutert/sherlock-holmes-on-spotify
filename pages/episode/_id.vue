@@ -4,6 +4,10 @@
     <div v-if="album" class="container">
       <Album :album="album" />
     </div>
+
+    <div class="share-hint">
+      <h4>Teile die URL oder nutze die "Teilen" Funktion deines Browsers.</h4>
+    </div>
   </div>
 </template>
 
@@ -59,5 +63,8 @@ a {
   color: #526488;
   word-spacing: 5px;
   padding-bottom: 15px;
+}
+.share-hint {
+  text-align: center;
 }
 </style>
