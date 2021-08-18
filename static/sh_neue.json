@@ -1080,6 +1080,29 @@
       ],
       "spotifyUrl": "https://open.spotify.com/album/3Kjk3J8bdJFsfhNjyS2YeW?si=UMHeZKm1QripN9ZpKOPYGQ",
       "case": 47
+    },
+    {
+      "name": "Die neuen Fälle, Fall 48: Der Keim des Bösen",
+      "uri": "spotify:artist:2YlvvdXUqRjiXmeL2GRuZ9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27339728cf3cf2931bf571784d9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0239728cf3cf2931bf571784d9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485139728cf3cf2931bf571784d9",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/artist/2YlvvdXUqRjiXmeL2GRuZ9",
+      "case": 48
     }
   ]
 }
