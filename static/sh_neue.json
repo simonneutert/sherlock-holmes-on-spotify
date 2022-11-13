@@ -1103,6 +1103,98 @@
       ],
       "spotifyUrl": "https://open.spotify.com/album/50FK01aO9oOax67ZyuFe4s",
       "case": 48
+    },
+    {
+      "name": "Die neuen Fälle, Fall 49: Die Jagd nach Mr. Hyde",
+      "uri": "spotify:album:2tMeLNl6FGR7oy4rgczXPd",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737b2ea48ed2d74c14e4a3f7d4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027b2ea48ed2d74c14e4a3f7d4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517b2ea48ed2d74c14e4a3f7d4",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/2tMeLNl6FGR7oy4rgczXPd",
+      "case": 49
+    },
+    {
+      "name": "Die neuen Fälle, Fall 50: Im Zeichen des Vollstreckers",
+      "uri": "spotify:album:59EGAFEqeaPpdk3vNJcifN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27381911dd8e9ce1bd4b4cfcecc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0281911dd8e9ce1bd4b4cfcecc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485181911dd8e9ce1bd4b4cfcecc",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/59EGAFEqeaPpdk3vNJcifN",
+      "case": 50
+    },
+    {
+      "name": "Die neuen Fälle, Fall 51: Ein Schilling für den Tod",
+      "uri": "spotify:album:5YdTkO6PhroLUjMTgO0pv2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273918e664c388c72192cc3c0cc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02918e664c388c72192cc3c0cc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851918e664c388c72192cc3c0cc",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/5YdTkO6PhroLUjMTgO0pv2",
+      "case": 51
+    },
+    {
+      "name": "Die neuen Fälle, Fall 52: Familienbande",
+      "uri": "spotify:album:1hcNoOddcmD3ItgX6jjF0E",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273983b3a0a595e4fbc2937174d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02983b3a0a595e4fbc2937174d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851983b3a0a595e4fbc2937174d",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/1hcNoOddcmD3ItgX6jjF0E",
+      "case": 52
     }
   ]
 }
