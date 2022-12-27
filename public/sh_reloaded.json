@@ -1,0 +1,1269 @@
+{
+  "items": [
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 1: Das Haus bei den Blutbuchen",
+      "uri": "spotify:album:28nTcPlA4vIXqfKIjBKaNH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273123310b7095ed3881605faa8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02123310b7095ed3881605faa8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851123310b7095ed3881605faa8",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/28nTcPlA4vIXqfKIjBKaNH",
+      "case": 1
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 2: Der blaue Karfunkel",
+      "uri": "spotify:album:7HHawwHd73vneEOmLe64sn",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273815332f235996485d9f852f9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02815332f235996485d9f852f9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851815332f235996485d9f852f9",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/7HHawwHd73vneEOmLe64sn",
+      "case": 2
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 3: Das Musgrave-Ritual",
+      "uri": "spotify:album:75pUQaxSBS8FylTEDZBpXS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27333e7689cdccefba1cf812252",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0233e7689cdccefba1cf812252",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485133e7689cdccefba1cf812252",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/75pUQaxSBS8FylTEDZBpXS",
+      "case": 3
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 4: Die fünf Orangenkerne",
+      "uri": "spotify:album:324FYMXvYzaL9sf06t6qTF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bd357b0a47c2ec7c1d81695a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bd357b0a47c2ec7c1d81695a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bd357b0a47c2ec7c1d81695a",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/324FYMXvYzaL9sf06t6qTF",
+      "case": 4
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 5: Die sechs Napoleons",
+      "uri": "spotify:album:1HC6XQ1BKtr2igYmouUwhu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ccbf597a6a79749daaef513a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ccbf597a6a79749daaef513a",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ccbf597a6a79749daaef513a",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/1HC6XQ1BKtr2igYmouUwhu",
+      "case": 5
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 6: Das Tal der Furcht",
+      "uri": "spotify:album:5puFKZiwJecZRXarkohpDe",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734f7384c1fedd1e74c2d8d023",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e024f7384c1fedd1e74c2d8d023",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048514f7384c1fedd1e74c2d8d023",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/5puFKZiwJecZRXarkohpDe",
+      "case": 6
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 7: Der Vampir von Sussex",
+      "uri": "spotify:album:13P5pbz2ObFun2Bp6McUX3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736bd8cba887c93a36df018189",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026bd8cba887c93a36df018189",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516bd8cba887c93a36df018189",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/13P5pbz2ObFun2Bp6McUX3",
+      "case": 7
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 8: Der Patient",
+      "uri": "spotify:album:72bc3YpwvOdyKsuQZbnnN8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273f9f87a131eaf7c821228cad1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02f9f87a131eaf7c821228cad1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851f9f87a131eaf7c821228cad1",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/72bc3YpwvOdyKsuQZbnnN8",
+      "case": 8
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 9: Ein Skandal in Böhmen",
+      "uri": "spotify:album:4ES6A9dO2c7iHj6riNU9g3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730166414f97281c88cc6a808c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020166414f97281c88cc6a808c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510166414f97281c88cc6a808c",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/4ES6A9dO2c7iHj6riNU9g3",
+      "case": 9
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 10: Der Baumeister von Norwood",
+      "uri": "spotify:album:0iQxSvLm2RvFcEicA65pHS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732bd71385f1f4413dc46d033e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022bd71385f1f4413dc46d033e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512bd71385f1f4413dc46d033e",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/0iQxSvLm2RvFcEicA65pHS",
+      "case": 10
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 11: Die drei Garridebs",
+      "uri": "spotify:album:5o220b4Eq8out2pxTG2kQX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a3fa7be4ccc7ef9ce5fe243f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a3fa7be4ccc7ef9ce5fe243f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a3fa7be4ccc7ef9ce5fe243f",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/5o220b4Eq8out2pxTG2kQX",
+      "case": 11
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 12: Eine Studie in Scharlachrot",
+      "uri": "spotify:album:7y21E6ijK9HzJeOgD6CLAX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273371dbbe90df98a94a561825c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02371dbbe90df98a94a561825c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851371dbbe90df98a94a561825c",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/7y21E6ijK9HzJeOgD6CLAX",
+      "case": 12
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 13: Der griechische Dolmetscher",
+      "uri": "spotify:album:4OLFEDHKO6egKuDZFHyvCJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27364e216075aa1aac8d1dbeaea",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0264e216075aa1aac8d1dbeaea",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485164e216075aa1aac8d1dbeaea",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/4OLFEDHKO6egKuDZFHyvCJ",
+      "case": 13
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 14: Die tanzenden Männchen",
+      "uri": "spotify:album:6Dqg9hDXkLMmnyIuOn9htC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273751c84625e2f7e2deb47b19b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02751c84625e2f7e2deb47b19b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851751c84625e2f7e2deb47b19b",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/6Dqg9hDXkLMmnyIuOn9htC",
+      "case": 14
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 15: Die Internatsschule",
+      "uri": "spotify:album:7AH9JjFD9cg22bXd7M2PQ2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273e9872c31c38d11e8193c707c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02e9872c31c38d11e8193c707c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851e9872c31c38d11e8193c707c",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/7AH9JjFD9cg22bXd7M2PQ2",
+      "case": 15
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 16: Der zweite Fleck",
+      "uri": "spotify:album:6UoTfOlJ2JAjy4H6Kms2dG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27336a592ba2f72963cc281ff5c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0236a592ba2f72963cc281ff5c",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485136a592ba2f72963cc281ff5c",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/6UoTfOlJ2JAjy4H6Kms2dG",
+      "case": 16
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 17: Silberpfeil",
+      "uri": "spotify:album:4bjIv3nxPGS4Z8tQEZAm5N",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ad319936618e7f555266eee7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ad319936618e7f555266eee7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ad319936618e7f555266eee7",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/4bjIv3nxPGS4Z8tQEZAm5N",
+      "case": 17
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 18: Der Hund der Baskervilles",
+      "uri": "spotify:album:3iX4W1aKzWLNgbsDqhGIAu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737195e624e4b476e0f868150e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027195e624e4b476e0f868150e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517195e624e4b476e0f868150e",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/3iX4W1aKzWLNgbsDqhGIAu",
+      "case": 18
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 19: Der Angestellte des Börsenmaklers",
+      "uri": "spotify:album:6KbvBgv3xvLYjPHQsSzcQN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732e1d54b37795290b30554279",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022e1d54b37795290b30554279",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512e1d54b37795290b30554279",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/6KbvBgv3xvLYjPHQsSzcQN",
+      "case": 19
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 20: Der Landadel von Reigate",
+      "uri": "spotify:album:2DAnHYoUl17ehqQIgQeRIj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731ad367d7b4d20ca4da15dbee",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021ad367d7b4d20ca4da15dbee",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511ad367d7b4d20ca4da15dbee",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/2DAnHYoUl17ehqQIgQeRIj",
+      "case": 20
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 21: Der Bucklige",
+      "uri": "spotify:album:3ZPRuUMzyx3HLrEUqkotzM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273929508d1241bf7b3740fa6b7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02929508d1241bf7b3740fa6b7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851929508d1241bf7b3740fa6b7",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/3ZPRuUMzyx3HLrEUqkotzM",
+      "case": 21
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 22: Das Geheimnis der Gloria Scott",
+      "uri": "spotify:album:0M3L45qma8YMKEtwviRDaI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b1d8ced7dd3eabd14d57cce1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b1d8ced7dd3eabd14d57cce1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b1d8ced7dd3eabd14d57cce1",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/0M3L45qma8YMKEtwviRDaI",
+      "case": 22
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 23: Der Flottenvertrag",
+      "uri": "spotify:album:3sCLqV77hCO48xkCL8A0PX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2730ccb0de2ac52b59c16d85761",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e020ccb0de2ac52b59c16d85761",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048510ccb0de2ac52b59c16d85761",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/3sCLqV77hCO48xkCL8A0PX",
+      "case": 23
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 24: Im Zeichen der Vier",
+      "uri": "spotify:album:0zX4LPDxjFOjGGOSeJvfvk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273637ddcdf49d9749ec5ffaea4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02637ddcdf49d9749ec5ffaea4",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851637ddcdf49d9749ec5ffaea4",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/0zX4LPDxjFOjGGOSeJvfvk",
+      "case": 24
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 25: Das gelbe Gesicht",
+      "uri": "spotify:album:4ZDgY5XlD0Y14YGnoFibqz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2732e81bf1a29cc714938ba2a76",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e022e81bf1a29cc714938ba2a76",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048512e81bf1a29cc714938ba2a76",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/4ZDgY5XlD0Y14YGnoFibqz",
+      "case": 25
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 26: Das Diadem",
+      "uri": "spotify:album:4RwQKqTttjNsbh0lxrvNbU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2737ea53873e03e7d9ba96461f3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e027ea53873e03e7d9ba96461f3",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048517ea53873e03e7d9ba96461f3",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/4RwQKqTttjNsbh0lxrvNbU",
+      "case": 26
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 27: Der vermisste Rugbyspieler",
+      "uri": "spotify:album:7C04HY1bH2ZOn4wK7gunUq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273264519dce4166a5081c65f80",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02264519dce4166a5081c65f80",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851264519dce4166a5081c65f80",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/7C04HY1bH2ZOn4wK7gunUq",
+      "case": 27
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 28: Der Mann mit der entstellten Lippe",
+      "uri": "spotify:album:2askCDC555Vhk3ZRTpjIlk",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b6f638d0d04ec0aecc3e96fd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b6f638d0d04ec0aecc3e96fd",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b6f638d0d04ec0aecc3e96fd",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/2askCDC555Vhk3ZRTpjIlk",
+      "case": 28
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 29: Die Liga der Rothaarigen",
+      "uri": "spotify:album:52ejcqu62lhb3vpr3D6Nmb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ac2d755945e83bf61656c26b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ac2d755945e83bf61656c26b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ac2d755945e83bf61656c26b",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/52ejcqu62lhb3vpr3D6Nmb",
+      "case": 29
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 30: Eine Frage der Identität",
+      "uri": "spotify:album:184z6ThJYpvCMTuWYbdPaS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27391b65fe5abd4740aa52e3486",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0291b65fe5abd4740aa52e3486",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485191b65fe5abd4740aa52e3486",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/184z6ThJYpvCMTuWYbdPaS",
+      "case": 30
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 31: Die drei Giebel",
+      "uri": "spotify:album:5QZboNtgIVieBlEBFmDB8M",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273b8496a746ce36af9edc04e8d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02b8496a746ce36af9edc04e8d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851b8496a746ce36af9edc04e8d",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/5QZboNtgIVieBlEBFmDB8M",
+      "case": 31
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 32: Der rote Kreis",
+      "uri": "spotify:album:3GzwkzLXKbXP0wUIJlCa3w",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273acbbb3a41336fc545c657ef9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02acbbb3a41336fc545c657ef9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851acbbb3a41336fc545c657ef9",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/3GzwkzLXKbXP0wUIJlCa3w",
+      "case": 32
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 33: Der schwarze Peter",
+      "uri": "spotify:album:1GtKBhY6C70ThImrZFJLUR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736c3d943e79f5f21d0da34588",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026c3d943e79f5f21d0da34588",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516c3d943e79f5f21d0da34588",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/1GtKBhY6C70ThImrZFJLUR",
+      "case": 33
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 34: Charles Augustus Milverton",
+      "uri": "spotify:album:79kuE2AMxVG9YCSkfYtE3B",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27372d0b80be09de08fd8c52453",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0272d0b80be09de08fd8c52453",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485172d0b80be09de08fd8c52453",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/79kuE2AMxVG9YCSkfYtE3B",
+      "case": 34
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 35: Die verschleierte Mieterin",
+      "uri": "spotify:album:22TqTCxGUCKEXg4mXNI8iU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273a34d502edef69113b5f59e03",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a34d502edef69113b5f59e03",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851a34d502edef69113b5f59e03",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/22TqTCxGUCKEXg4mXNI8iU",
+      "case": 35
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 36: Der Teufelsfuß",
+      "uri": "spotify:album:3wZT4eZfxqCVLlLM9yOHbf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27362ef53a998be3b772f9ba262",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0262ef53a998be3b772f9ba262",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485162ef53a998be3b772f9ba262",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/3wZT4eZfxqCVLlLM9yOHbf",
+      "case": 36
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 37: Die einsame Radfahrerin",
+      "uri": "spotify:album:6klWGAsG7bFJ6aB37hLjjH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273ba026a1830e12153c95b5a3e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02ba026a1830e12153c95b5a3e",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851ba026a1830e12153c95b5a3e",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/6klWGAsG7bFJ6aB37hLjjH",
+      "case": 37
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 38: Das gesprenkelte Band",
+      "uri": "spotify:album:4Ffpk0hg30ajrSJ0s8QST8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273004352d5606dde8b328533c0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02004352d5606dde8b328533c0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851004352d5606dde8b328533c0",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/4Ffpk0hg30ajrSJ0s8QST8",
+      "case": 38
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 39: Die Thor-Brücke",
+      "uri": "spotify:album:0Mh65iBK5W5vVwtH2ASTtv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27311a400bd74e7f00f065443c2",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0211a400bd74e7f00f065443c2",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485111a400bd74e7f00f065443c2",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/0Mh65iBK5W5vVwtH2ASTtv",
+      "case": 39
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 40: Der goldene Kneifer",
+      "uri": "spotify:album:4JJ47gFMsHfdAVSmzHcmJ1",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d7858cb033f7462487c8a5ec",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d7858cb033f7462487c8a5ec",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d7858cb033f7462487c8a5ec",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/4JJ47gFMsHfdAVSmzHcmJ1",
+      "case": 40
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 41: Abbey Grange",
+      "uri": "spotify:album:4j5F1ybvLZGXSwVR7h1Pth",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27352d61c9c3ecc9b13172ff3c0",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0252d61c9c3ecc9b13172ff3c0",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485152d61c9c3ecc9b13172ff3c0",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/4j5F1ybvLZGXSwVR7h1Pth",
+      "case": 41
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 42: Das Rätsel von Boscombe Valley",
+      "uri": "spotify:album:4Ecjn3qu2vSk09fC7GuzO9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273339b60d73330a944f7a5914f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02339b60d73330a944f7a5914f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851339b60d73330a944f7a5914f",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/4Ecjn3qu2vSk09fC7GuzO9",
+      "case": 42
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 43: Die Pappschachtel",
+      "uri": "spotify:album:0AbtRG6FZtl6Zp19yo719q",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273335948643377c1a6fdad5fc9",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02335948643377c1a6fdad5fc9",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851335948643377c1a6fdad5fc9",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/0AbtRG6FZtl6Zp19yo719q",
+      "case": 43
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 44: Die Bruce-Partington-Pläne",
+      "uri": "spotify:album:2NaDp0PXVNHQheVSZkdNVD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2731a36c21a07ffb5568aa26541",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e021a36c21a07ffb5568aa26541",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048511a36c21a07ffb5568aa26541",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/2NaDp0PXVNHQheVSZkdNVD",
+      "case": 44
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 45: Das Verschwinden der Lady Carfax",
+      "uri": "spotify:album:5KgGmAwJLNvbBCvNXwD9SV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273bad8bca88a2f690a488170a1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02bad8bca88a2f690a488170a1",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851bad8bca88a2f690a488170a1",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/5KgGmAwJLNvbBCvNXwD9SV",
+      "case": 45
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 46: Die Löwenmähne",
+      "uri": "spotify:album:4jxpPUOJmvXYboaJ2AoEgA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27350c7178a479d835b0ca8fa07",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0250c7178a479d835b0ca8fa07",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485150c7178a479d835b0ca8fa07",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/4jxpPUOJmvXYboaJ2AoEgA",
+      "case": 46
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 47: Der Mazarin-Stein",
+      "uri": "spotify:album:0QKXOUVSE1hdJdAjfJzXM7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27376ffcd92d6226138466b1c01",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0276ffcd92d6226138466b1c01",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485176ffcd92d6226138466b1c01",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/0QKXOUVSE1hdJdAjfJzXM7",
+      "case": 47
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 48: Der illustre Klient",
+      "uri": "spotify:album:2ANjBEgR7N5fRfzFOyqiJZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273dba93a5b0182919380125b1b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02dba93a5b0182919380125b1b",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851dba93a5b0182919380125b1b",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/2ANjBEgR7N5fRfzFOyqiJZ",
+      "case": 48
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 49: Der erbleichte Soldat",
+      "uri": "spotify:album:15g8j9Nm2567nr6xiX1a2N",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273d1da8a27948db939a804e175",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02d1da8a27948db939a804e175",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851d1da8a27948db939a804e175",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/15g8j9Nm2567nr6xiX1a2N",
+      "case": 49
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 50: Shoscombe Old Place",
+      "uri": "spotify:album:3O91PgAQXUiAIWiE4HUA9t",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27397d495ba3639d76e247a4f22",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0297d495ba3639d76e247a4f22",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485197d495ba3639d76e247a4f22",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/3O91PgAQXUiAIWiE4HUA9t",
+      "case": 50
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 51: Der Farbenhändler im Ruhestand",
+      "uri": "spotify:album:03sfu8jBz8ku05RPQbI75l",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c023414b37153d406b806a3d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c023414b37153d406b806a3d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c023414b37153d406b806a3d",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/03sfu8jBz8ku05RPQbI75l",
+      "case": 51
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 52: Wisteria Lodge",
+      "uri": "spotify:album:2OzgLD48kgxLAKWaskldew",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273c52195c015f8e69a08e3f484",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02c52195c015f8e69a08e3f484",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851c52195c015f8e69a08e3f484",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/2OzgLD48kgxLAKWaskldew",
+      "case": 52
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 53: Der Detektiv auf dem Sterbebett",
+      "uri": "spotify:album:390azlWN570tMWOAEwV71r",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736e56c7ef6fae35fde33214ed",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026e56c7ef6fae35fde33214ed",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516e56c7ef6fae35fde33214ed",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/390azlWN570tMWOAEwV71r",
+      "case": 53
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 54: Die drei Studenten",
+      "uri": "spotify:album:7xEX6eeFXheczd6ZEJVYnE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27314940e96944c058eb5d2f737",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0214940e96944c058eb5d2f737",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485114940e96944c058eb5d2f737",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/7xEX6eeFXheczd6ZEJVYnE",
+      "case": 54
+    },
+    {
+      "name": "Die alten Fälle (Reloaded), Fall 55: Der Mann mit dem geduckten Gang",
+      "uri": "spotify:album:2plhg7me5Dv3rfZTJXoXPa",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273772c542b9d7f86f530134b73",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02772c542b9d7f86f530134b73",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851772c542b9d7f86f530134b73",
+          "width": 64
+        }
+      ],
+      "spotifyUrl": "https://open.spotify.com/album/2plhg7me5Dv3rfZTJXoXPa",
+      "case": 55
+    }
+  ]
+}
