@@ -1,6 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Sherlock Holmes on Spotify
+
+a simple NextJS app
+## get the source data
+
+- make dev account for api access on spotify
+- 2YlvvdXUqRjiXmeL2GRuZ9 is "Holmes's Spotify Artist ID"
+- visit https://developer.spotify.com/console/get-artist-albums/ then scroll around until you find the "try it" button, it will generate a key, which in turn allows you to curl what you need (pipe to file :wink:)
+
+## extract json using JSONata
+
+``` jsonata
+{
+    "items": $sort(items[$contains(name, 'Die Originale')].{
+        "name": name,
+        "uri": uri,
+        "images": images,
+        "spotifyUrl": external_urls.spotify,
+        "case": $number($split($match(name, /[Folge|Fall] \d+/).match, " ")[-1])
+    }, function($l, $r) {
+        $l.case > $r.case
+    }
+    )
+}
+```
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
@@ -28,9 +54,3 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
