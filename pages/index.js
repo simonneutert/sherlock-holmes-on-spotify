@@ -9,8 +9,8 @@ import { useEffect, useState } from 'react'
 export default function Home() {
   const shuffle = {
     items: [
-      neue.items[Math.floor(Math.random() * neue.items.length)],
-      reloaded.items[Math.floor(Math.random() * reloaded.items.length)]
+      reloaded.items[Math.floor(Math.random() * reloaded.items.length)],
+      neue.items[Math.floor(Math.random() * neue.items.length)]
     ]
   }
 
