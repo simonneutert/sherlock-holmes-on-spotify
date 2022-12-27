@@ -34,7 +34,6 @@ export default function Home() {
           <Albums albums={albums} />
         </div>
       </div>
-
     </>
   )
 }
