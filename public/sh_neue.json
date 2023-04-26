@@ -1195,6 +1195,52 @@
       ],
       "spotifyUrl": "https://open.spotify.com/album/1hcNoOddcmD3ItgX6jjF0E",
       "case": 52
+    },
+    {
+      "name": "Die neuen Fälle, Fall 53: Die sieben Zinnsoldaten",
+      "case": 53,
+      "uri": "spotify:album:3SCrwIGAxUT9iCLl2m7YUj",
+      "spotifyUrl": "https://open.spotify.com/album/3SCrwIGAxUT9iCLl2m7YUj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2736b83cd360d9e2af9353db167",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e026b83cd360d9e2af9353db167",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048516b83cd360d9e2af9353db167",
+          "width": 64
+        }
+      ]
+    },
+    {
+      "name": "Die neuen Fälle, Fall 54: Die Schatten von Dartmoor",
+      "case": 54,
+      "uri": "spotify:album:5lTJNisamf0FaPdA4quLDZ",
+      "spotifyUrl": "https://open.spotify.com/album/5lTJNisamf0FaPdA4quLDZ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273116e58f5c83da6806f68e85d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02116e58f5c83da6806f68e85d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851116e58f5c83da6806f68e85d",
+          "width": 64
+        }
+      ]
     }
   ]
 }
