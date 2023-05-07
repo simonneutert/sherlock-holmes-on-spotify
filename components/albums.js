@@ -3,10 +3,15 @@ export default function Albums(props) {
     return (
       <>
         {props.albums.items.map((album) => (
-          <div className="card mb-3" key="album.uri" >
+          <div className="card mb-3" key="album.uri">
             <div className="row g-0">
               <div className="col-md-4">
-                <img src={album.images[1].url} className="img-fluid rounded-start" alt={album.name} />
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  src={album.images[1].url}
+                  className="img-fluid rounded-start"
+                  alt={album.name}
+                />
               </div>
               <div className="col-md-8">
                 <div className="card-body">
@@ -25,11 +30,8 @@ export default function Albums(props) {
           </div>
         ))}
       </>
-    )
-  }
-  else {
-    return (
-      <></>
-    )
+    );
+  } else {
+    return <></>;
   }
 }
